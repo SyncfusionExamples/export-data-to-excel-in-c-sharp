@@ -1,0 +1,999 @@
+Product,Price,Payment_Type,Name,City,State,Country,Transaction_date,Latitude,Longitude
+Product1,1200,Mastercard,Nikki,New Rochelle                ,NY,United States,1/1/2009 1:26,40.91139,-73.78278
+Product1,1200,Mastercard,Si,Holte,Kobenhavn,Denmark,1/1/2009 1:51,55.8166667,12.4666667
+Product1,1200,Mastercard,Saraya,Dresden,Saxony,Germany,1/1/2009 2:09,51.05,13.75
+Product1,1200,Visa,Lisa,Sugar Land                  ,TX,United States,1/1/2009 2:24,29.61944,-95.63472
+Product1,1200,Mastercard,sunny,Amsterdam,Noord-Holland,Netherlands,1/1/2009 3:51,52.35,4.9166667
+Product3,7500,Amex,Pamela,Skaneateles                 ,NY,United States,1/1/2009 4:24,42.94694,-76.42944
+Product1,1200,Mastercard,Regina,Glimmen,Groningen,Netherlands,1/1/2009 5:04,53.1333333,6.6333333
+Product1,1200,Mastercard,Elaine,Vicenza,Veneto,Italy,1/1/2009 6:29,45.55,11.55
+Product1,1200,Amex,Emer,South Palm Beach            ,FL,United States,1/1/2009 7:09,26.70528,-80.03667
+Product1,1200,Mastercard,Nicole,South Melbourne,Victoria,Australia,1/1/2009 8:09,-37.8333333,144.9666667
+Product1,1200,Diners,Babs,Blackpool,England,United Kingdom,1/1/2009 9:21,53.8166667,-3.05
+Product1,1200,Mastercard,Barbara,La Crescenta                ,CA,United States,1/1/2009 9:35,34.22417,-118.23917
+Product2,3600,Mastercard,Irene,Munich,Bayern,Germany,1/1/2009 10:06,48.15,11.5833333
+Product1,1200,Diners,Janis,Ballynora,Cork,Ireland,1/1/2009 11:05,51.8630556,-8.58
+Product1,1200,Visa,Marlene,Edgewood                    ,WA,United States,1/1/2009 12:19,47.25028,-122.2925
+Product2,3600,Visa,seemab,San Pawl tat-Targa, ,Malta,1/1/2009 12:20,35.9202778,14.4425
+Product2,3600,Mastercard,Anne-line,Zug,Zug,Switzerland,1/1/2009 12:25,47.1666667,8.5166667
+Product1,1200,Visa,ashton,Exeter,England,United Kingdom,1/1/2009 12:42,50.7,-3.5333333
+Product1,1200,Mastercard,Gabriel,Three Hills,Alberta,Canada,1/1/2009 14:19,51.7,-113.2666667
+Product1,1200,Mastercard,Liban,Stavanger,Rogaland,Norway,1/1/2009 14:22,58.9666667,5.75
+Product1,1200,Visa,Toni,Bolton,England,United Kingdom,1/1/2009 16:00,53.5833333,-2.4333333
+Product1,1200,Amex,Julie ,Rockville                   ,MD,United States,1/1/2009 16:44,39.08389,-77.15306
+Product1,1200,Amex,Andrea ,San Mateo                   ,CA,United States,1/1/2009 18:32,37.56306,-122.32444
+Product1,1200,Diners,Damali,Toronto,Ontario,Canada,1/1/2009 19:25,43.6666667,-79.4166667
+Product1,1200,Visa,Maxine,Morton                      ,IL,United States,1/1/2009 20:21,40.61278,-89.45917
+Product1,1200,Visa,nathalie,Calgary,Alberta,Canada,1/1/2009 20:28,51.0833333,-114.0833333
+Product1,1200,Mastercard,Tina,Anglesea,Victoria,Australia,1/1/2009 21:40,-38.4166667,144.1666667
+Product1,1200,Visa,Sam,Tesvikiye,Istanbul,Turkey,1/2/2009 0:50,40.6166667,29.0666667
+Product1,1200,Mastercard,Lena,Kuopio,Ita-Suomen Laani,Finland,1/2/2009 1:11,62.9,27.6833333
+Product1,1200,Mastercard,Morgan,Coomera,Queensland,Australia,1/2/2009 2:28,-27.8833333,153.3
+Product1,1200,Visa,Kim,Newcastle,Wicklow,Ireland,1/2/2009 2:50,53.0683333,-6.0658333
+Product1,1200,Visa,chris,London,England,United Kingdom,1/2/2009 2:57,51.52721,0.14559
+Product1,1200,Visa,Elaine,Tranby,Buskerud,Norway,1/2/2009 4:21,59.8166667,10.25
+Product1,1200,Visa,gladys,Saint Albans,England,United Kingdom,1/2/2009 4:34,51.75,-0.3333333
+Product1,1200,Visa,Betina,Parkville                   ,MO,United States,1/2/2009 4:53,39.195,-94.68194
+Product1,1200,Visa,Dr. Donald,Stockton-on-Tees,England,United Kingdom,1/2/2009 5:14,54.5833333,-1.4166667
+Product1,1200,Visa,Mike,Aberdeen,Scotland,United Kingdom,1/2/2009 5:33,57.1333333,-2.1
+Product1,1200,Visa,Cindy ,Kemble,England,United Kingdom,1/2/2009 6:07,51.6766667,-2.0180556
+Product1,1200,Mastercard,carolina,Basildon,England,United Kingdom,1/2/2009 6:17,51.5,-1.1166667
+Product1,1200,Visa,gail ,London,England,United Kingdom,1/2/2009 7:03,51.52721,0.14559
+Product1,1200,Mastercard,Fiona,Lake Ronkonkoma,NY,United States,1/2/2009 7:30,40.835,-73.13167
+Product1,1200,Diners,Hani,Salt Lake City              ,UT,United States,1/2/2009 7:35,40.76083,-111.89028
+Product1,1200,Diners,Naseer,London,England,United Kingdom,1/2/2009 7:47,51.5,-0.1166667
+Product1,1200,Visa,Line,Budaors,Pest,Hungary,1/2/2009 8:31,47.45,18.9666667
+Product1,1200,Mastercard,Sean ,Shavano Park                ,TX,United States,1/2/2009 9:16,29.42389,-98.49333
+Product1,1200,Visa,camilla,Chicago                     ,IL,United States,1/2/2009 9:31,41.85,-87.65
+Product1,1200,Amex,leigh,Potomac Falls               ,VA,United States,1/2/2009 9:57,39.05,-77.40111
+Product1,1200,Mastercard,Brandi,Edmonton,Alberta,Canada,1/2/2009 10:32,53.55,-113.5
+Product2,3600,Visa,Kendra,Toronto,Ontario,Canada,1/2/2009 10:58,43.6666667,-79.4166667
+Product1,1200,Mastercard,Andrew,Sevilla,Andalucia,Spain,1/2/2009 11:06,37.3772222,-5.9869444
+Product1,1200,Visa,Crystal,Farmington,Michigan,United States,1/2/2009 11:41,42.46444,-83.37639
+Product1,1200,Mastercard,Monique,Waldorf                     ,MD,United States,1/2/2009 12:16,38.62444,-76.93944
+Product1,1200,Visa,Alice,Nakskov,Storstrom,Denmark,1/2/2009 12:18,54.8333333,11.15
+Product1,1200,Mastercard,Federica e Andrea,Astoria                     ,OR,United States,1/2/2009 13:08,46.18806,-123.83
+Product1,1200,Visa,Alyssa,Antibes,Provence-Alpes-Cote d'Azur,France,1/2/2009 13:35,43.5833333,7.1166667
+Product1,1200,Diners,Aaron,Reading,England,United Kingdom,1/2/2009 14:14,51.4333333,-1
+Product1,1200,Visa,Richard,Riverside                   ,NJ,United States,1/2/2009 14:18,40.03222,-74.95778
+Product1,1200,Visa,Rowena,Cork,Cork,Ireland,1/2/2009 15:13,51.8986111,-8.4958333
+Product1,1200,Diners,Brenda,Saffron Walden,England,United Kingdom,1/2/2009 15:18,52.0166667,0.25
+Product1,1200,Diners,Sonja,Alpine                      ,NJ,United States,1/2/2009 15:57,40.95583,-73.93167
+Product2,3600,Diners,clara,Perth,Western Australia,Australia,1/2/2009 17:24,-31.9333333,115.8333333
+Product1,1200,Mastercard,Jammie,Belmont                     ,MA,United States,1/2/2009 17:45,42.39583,-71.17917
+Product1,1200,Visa,odile,Lititz                      ,PA,United States,1/2/2009 18:41,40.15722,-76.30722
+Product1,1200,Visa,Kathryn,Cork,Cork,Ireland,1/2/2009 18:43,51.8986111,-8.4958333
+Product1,1200,Mastercard,Kelly,Hendersonville              ,TN,United States,1/2/2009 18:54,36.30472,-86.62
+Product1,1200,Mastercard,adam,Martin                      ,TN,United States,1/2/2009 20:09,36.34333,-88.85028
+Product1,1200,Visa,Katharina,Flower Mound                ,TX,United States,1/2/2009 20:47,33.01444,-97.09667
+Product1,1200,Diners,Lynne,Memphis                     ,TN,United States,1/2/2009 22:00,35.14944,-90.04889
+Product2,3600,Visa,eva,Gisborne,Victoria,Australia,1/2/2009 22:44,-37.4833333,144.5833333
+Product2,3600,Visa,ayelet,Malmo,Skane,Sweden,1/3/2009 6:41,55.6,13
+Product1,1200,Mastercard,Gerlinde,Hellerup,Kobenhavn,Denmark,1/3/2009 7:58,55.7333333,12.5833333
+Product1,1200,Visa,Genevieve,Milton Keynes,England,United Kingdom,1/3/2009 8:29,52.0333333,-0.7
+Product1,1200,Diners,Sheila,Brooklyn                    ,NY,United States,1/3/2009 9:03,40.65,-73.95
+Product1,1200,Visa,Sylvia,Zekeriyakoy,Istanbul,Turkey,1/3/2009 9:54,41.1980556,29.0302778
+Product1,1200,Visa,Kara,Chicago                     ,IL,United States,1/3/2009 9:56,41.85,-87.65
+Product1,1200,Visa,Anja,Gainesville                 ,VA,United States,1/3/2009 9:58,38.79556,-77.61417
+Product2,3600,Visa,Christiane ,Delray Beach                ,FL,United States,1/3/2009 10:11,26.46111,-80.07306
+Product1,1200,Visa,Djeiny,Rockville                   ,MD,United States,1/3/2009 10:52,39.01806,-77.20889
+Product1,1200,Mastercard,paula,Sammamish                   ,WA,United States,1/3/2009 11:03,47.64194,-122.07917
+Product1,1200,Amex,Maria and Timothy,Fountain Hls                ,AZ,United States,1/3/2009 11:08,33.61167,-111.71667
+Product1,1200,Diners,caterina,Burbank                     ,CA,United States,1/3/2009 12:54,34.18083,-118.30806
+Product1,1200,Mastercard,simone,Kobenhavn,Kobenhavn,Denmark,1/3/2009 13:11,55.6666667,12.5833333
+Product1,1200,Visa,Mehmet Fatih,Helsingor,Frederiksborg,Denmark,1/3/2009 13:24,56.0333333,12.6166667
+Product1,1200,Mastercard,Yvette,Aubonne,Vaud,Switzerland,1/3/2009 13:35,46.4833333,6.4
+Product1,1200,Mastercard,Andree,Newmarket,Cork,Ireland,1/3/2009 13:43,52.2166667,-9
+Product1,1200,Visa,Rennae,Amelia Island               ,FL,United States,1/3/2009 13:56,30.66944,-81.46278
+Product1,1200,Visa,sherry,Las Vegas                   ,NV,United States,1/3/2009 14:14,36.175,-115.13639
+Product2,3600,Visa,Kees en Valesca,Scamander,Tasmania,Australia,1/3/2009 14:17,-41.465,148.2572222
+Product1,1200,Visa,Gouya,Echuca,Victoria,Australia,1/3/2009 14:44,-36.1333333,144.75
+Product1,1200,Mastercard,Lindi,Vancouver,British Columbia,Canada,1/3/2009 15:22,49.25,-123.1333333
+Product1,1200,Visa,Cindy,Glendora                    ,CA,United States,1/3/2009 16:56,34.13611,-117.86444
+Product1,1200,Visa,Vanessa,Cornwall,Ontario,Canada,1/3/2009 18:43,45.0166667,-74.7333333
+Product1,1200,Mastercard,asuncion ,Centennial                  ,CO,United States,1/3/2009 21:11,39.57917,-104.87639
+Product1,1200,Visa,Doug and Tina,Pls Vrds Est                ,CA,United States,1/3/2009 21:19,33.80056,-118.38917
+Product1,1200,Diners,Leanne,Julianstown,Meath,Ireland,1/4/2009 1:05,53.6772222,-6.3191667
+Product1,1200,Amex,jeremy,Charlestown,New South Wales,Australia,1/4/2009 1:38,-32.95,151.6666667
+Product1,1200,Mastercard,Scott,Den Haag,Zuid-Holland,Netherlands,1/4/2009 3:41,52.0833333,4.3
+Product1,1200,Mastercard,Samantha,Watford,England,United Kingdom,1/4/2009 4:05,51.6666667,-0.4
+Product1,1200,Visa,DeeDee,Songnae-dong,Soul-t'ukpyolsi,South Korea,1/4/2009 5:12,37.5333333,127.1166667
+Product1,1200,Visa,Lauren,Hradec Kralove,East Bohemia,Czech Republic,1/4/2009 5:13,50.2116667,15.8441667
+Product1,1200,Visa,Rima,Mullingar,Westmeath,Ireland,1/4/2009 6:51,53.5333333,-7.35
+Product1,1200,Mastercard,Jamie,Houston                     ,TX,United States,1/4/2009 7:43,29.76306,-95.36306
+Product1,1200,Visa,Gerhard,Alliston,Ontario,Canada,1/4/2009 7:54,44.15,-79.8666667
+Product2,3600,Diners,Baybars,Prince Albert,Saskatchewan,Canada,1/4/2009 8:39,53.2,-105.75
+Product1,1200,Visa,Charlene,Calgary,Alberta,Canada,1/4/2009 9:02,51.0833333,-114.0833333
+Product1,1200,Visa,Jen,Maidstone,England,United Kingdom,1/4/2009 9:28,51.2666667,0.5166667
+Product1,1200,Mastercard,AMY,The Woodlands               ,TX,United States,1/4/2009 9:54,30.15778,-95.48917
+Product1,1200,Mastercard,Rebecca,Berlin,Berlin,Germany,1/4/2009 10:16,52.5166667,13.4
+Product1,1200,Mastercard,Allison,Naples                      ,FL,United States,1/4/2009 10:18,26.14167,-81.795
+Product1,1200,Diners,Paul,Burnaby,British Columbia,Canada,1/4/2009 10:44,49.25,-122.95
+Product1,1200,Diners,Denise,Montreal,Quebec,Canada,1/4/2009 12:49,45.5,-73.5833333
+Product1,1200,Diners,Kayla,Leamington Spa,England,United Kingdom,1/4/2009 12:53,52.3,-1.5333333
+Product2,3600,Visa,Gerd W ,Cahaba Heights              ,AL,United States,1/4/2009 12:56,33.52056,-86.8025
+Product1,1200,Mastercard,Renee Elisabeth,Tel Aviv,Tel Aviv,Israel,1/4/2009 13:17,32.0666667,34.7666667
+Product1,1200,Visa,LAURENCE,Mickleton                   ,NJ,United States,1/4/2009 13:19,39.79,-75.23806
+Product1,1200,Mastercard,Nuria,Superior                    ,CO,United States,1/4/2009 13:20,39.97778,-105.13139
+Product1,1200,Mastercard,Tamar,Headley,England,United Kingdom,1/4/2009 13:56,51.1166667,-0.8166667
+Product1,1200,Visa,carolien,Mashpee                     ,MA,United States,1/4/2009 14:06,41.64833,-70.48167
+Product1,1200,Visa,Aidan,Chatou,Ile-de-France,France,1/4/2009 14:11,48.8833333,2.15
+Product1,1200,Visa,Carole,Cardiff,Wales,United Kingdom,1/4/2009 14:27,51.5,-3.2
+Product1,1200,Visa,Judith L.,Scottsdale                  ,AZ,United States,1/4/2009 16:23,33.50917,-111.89833
+Product1,1200,Visa,Amy,Parramatta,New South Wales,Australia,1/4/2009 16:59,-33.8166667,151
+Product1,1200,Mastercard,Clare,Lafayette                   ,CA,United States,1/4/2009 17:02,37.88583,-122.11694
+Product1,1200,Mastercard,Dean,Rockingham,Western Australia,Australia,1/4/2009 17:34,-32.2833333,115.7166667
+Product1,1200,Amex,ruth,Encinitas                   ,CA,United States,1/4/2009 17:54,33.03694,-117.29111
+Product1,1200,Visa,Erica,Leesburg                    ,VA,United States,1/4/2009 18:34,39.11556,-77.56389
+Product1,1200,Mastercard,KELI,Worongary,Queensland,Australia,1/4/2009 18:57,-28.05,153.35
+Product1,1200,Amex,Elisa,Ottawa Hills                ,OH,United States,1/4/2009 19:20,41.66417,-83.64333
+Product1,1200,Mastercard,Fleur,Peoria                      ,IL,United States,1/4/2009 20:11,40.69361,-89.58889
+Product1,1200,Mastercard,Christyna,Calgary,Alberta,Canada,1/4/2009 21:08,51.0833333,-114.0833333
+Product2,3600,Amex,Lucien,Wiesbaden,Hessen,Germany,1/4/2009 22:00,50.0833333,8.25
+Product2,3600,Mastercard,Karoline ,Powell River,British Columbia,Canada,1/4/2009 22:18,49.8833333,-124.55
+Product1,1200,Diners,Sarka,Yellowknife,Northwest Territories,Canada,1/4/2009 23:48,62.45,-114.35
+Product1,1200,Mastercard,Bonnie,Saltsjobaden,Stockholm,Sweden,1/5/2009 0:31,59.2833333,18.3
+Product1,1200,Amex,Lisa,Gurgaon,Haryana,India,1/5/2009 0:46,28.4666667,77.0333333
+Product1,1200,Diners,Stacy,New York                    ,NY,United States,1/5/2009 2:42,40.71417,-74.00639
+Product3,7500,Visa,Marion,Rennes,Brittany,France,1/5/2009 2:57,48.0833333,-1.6833333
+Product1,1200,Diners,Elizabeth,Cork,Cork,Ireland,1/5/2009 3:03,51.8986111,-8.4958333
+Product1,1200,Mastercard,Nicola,Roodepoort,Gauteng,South Africa,1/5/2009 4:10,-26.1666667,27.8666667
+Product1,1200,Visa,M George,Paris,Ile-de-France,France,1/5/2009 5:30,48.8666667,2.3333333
+Product1,1200,Visa,Ben,Escondido                   ,CA,United States,1/5/2009 5:33,33.11917,-117.08556
+Product1,1200,Mastercard,Kim,London,England,United Kingdom,1/5/2009 5:33,51.52721,0.14559
+Product1,1200,Amex,Heidi,Eindhoven,Noord-Brabant,Netherlands,1/5/2009 5:39,51.45,5.4666667
+Product1,1200,Diners,Tracy,Lucca,Tuscany,Italy,1/5/2009 6:12,43.8333333,10.4833333
+Product1,1200,Mastercard,T,Veigy-Foncenex,Rhone-Alpes,France,1/5/2009 6:14,46.2666667,6.25
+Product1,1200,Visa,Annette ,Manhattan                   ,NY,United States,1/5/2009 7:37,40.71417,-74.00639
+Product1,1200,Amex,Claire,Versoix,Geneve,Switzerland,1/5/2009 7:47,46.2833333,6.1666667
+Product1,1200,Mastercard,Isabelle,Ewa Beach                   ,HI,United States,1/5/2009 7:55,21.31556,-158.00722
+Product1,1200,Visa,isabel,Ruti,Zurich,Switzerland,1/5/2009 8:28,47.25,8.85
+Product2,3600,Mastercard,Marcia,Telgte,Nordrhein-Westfalen,Germany,1/5/2009 8:58,52.3333333,7.9
+Product1,1200,Visa,Sophie,Bloomfield                  ,MI,United States,1/5/2009 9:09,42.53778,-83.23306
+Product1,1200,Visa,isabelle,Sainte-Therese-de-Blainville,Quebec,Canada,1/5/2009 9:15,45.6333333,-73.85
+Product2,3600,Visa,Emillie,Eagan                       ,MN,United States,1/5/2009 10:02,44.80417,-93.16667
+Product1,1200,Visa,Georgia,Eagle                       ,ID,United States,1/5/2009 10:08,43.69556,-116.35306
+Product1,1200,Visa,Ec,Clonmel,Tipperary,Ireland,1/5/2009 10:08,52.355,-7.7038889
+Product1,1200,Amex,linda,Arlington                   ,VA,United States,1/5/2009 10:25,38.89028,-77.08444
+Product2,3600,Amex,Courtney,Mililani                    ,HI,United States,1/5/2009 10:49,21.42556,-157.96083
+Product1,1200,Visa,pirunkit,Petworth,England,United Kingdom,1/5/2009 11:21,50.9833333,-0.6
+Product1,1200,Amex,Angie,Rodeo                       ,CA,United States,1/5/2009 11:24,38.01722,-122.2875
+Product1,1200,Visa,Janet,Ottawa,Ontario,Canada,1/5/2009 11:37,45.4166667,-75.7
+Product1,1200,Visa,Lauren,Laasby,Arhus,Denmark,1/5/2009 11:44,56.15,9.8166667
+Product1,1200,Visa,Cameron,Rungsted,Frederiksborg,Denmark,1/5/2009 12:28,55.8841667,12.5419444
+Product1,1200,Mastercard,Kathryn,Pacific Beach               ,CA,United States,1/5/2009 12:41,32.79778,-117.23944
+Product1,1200,Visa,Katrin,Calgary,Alberta,Canada,1/5/2009 12:41,51.0833333,-114.0833333
+Product1,1200,Diners,Manoj,Boise                       ,ID,United States,1/5/2009 12:57,43.61361,-116.2025
+Product1,1200,Visa,Amanda,Shenfield,England,United Kingdom,1/5/2009 13:07,51.6166667,0.3166667
+Product1,1200,Mastercard,Stephanie,Badhoevedorp,Noord-Holland,Netherlands,1/5/2009 13:17,52.3333333,4.7833333
+Product1,1200,Visa,Macy,Inner City,Vienna,Austria,1/5/2009 13:23,48.2166667,16.3666667
+Product1,1200,Visa,Courtney,Atchison                    ,KS,United States,1/5/2009 13:46,39.56306,-95.12139
+Product1,1200,Mastercard,Tammy,Morges,Vaud,Switzerland,1/5/2009 13:52,46.5166667,6.5
+Product1,1200,Amex,Amy,Ashford,England,United Kingdom,1/5/2009 15:15,51.1333333,0.8833333
+Product1,1200,Visa,maggie,Stockton,England,United Kingdom,1/5/2009 15:23,52.25,-2.7
+Product1,1200,Visa,Melissa ,Parkland                    ,FL,United States,1/5/2009 15:39,26.30972,-80.2375
+Product1,1200,Visa,Jeffrey,Montreal-Nord,Quebec,Canada,1/5/2009 16:55,45.6,-73.6166667
+Product1,1200,Visa,Nicole,Mc Lean                     ,VA,United States,1/5/2009 18:55,38.94222,-77.1825
+Product1,1200,Visa,katie,Ruschlikon,Zurich,Switzerland,1/5/2009 19:26,47.3,8.55
+Product1,1200,Visa,Carmen,Arlington                   ,VA,United States,1/5/2009 19:29,38.89028,-77.08444
+Product1,1200,Amex,Bernadette,Washington                  ,DC,United States,1/5/2009 19:37,38.895,-77.03667
+Product2,3600,Visa,James,Burpengary,Queensland,Australia,1/5/2009 20:00,-27.1666667,152.95
+Product1,1200,Mastercard,Tracy,Louisville                  ,KY,United States,1/5/2009 21:06,38.25417,-85.75944
+Product1,1200,Mastercard,Frank,Melbourne,Victoria,Australia,1/6/2009 1:20,-37.8166667,144.9666667
+Product1,1200,Visa,Polyxene,Perth,Western Australia,Australia,1/6/2009 2:41,-31.9333333,115.8333333
+Product1,1200,Visa,Krista,Bergen,Hordaland,Norway,1/6/2009 3:39,60.3911111,5.3247222
+Product1,1200,Visa,Lina,Edinburgh,Scotland,United Kingdom,1/6/2009 4:18,55.95,-3.2
+Product1,1200,Diners,barbara,Hyderabad,Andhra Pradesh,India,1/6/2009 5:02,17.3833333,78.4666667
+Product1,1200,Visa,Astrid,Altlengbach,Lower Austria,Austria,1/6/2009 5:10,48.15,15.9166667
+Product1,1200,Amex,Abikay,Atlanta                     ,GA,United States,1/6/2009 5:42,33.74889,-84.38806
+Product1,1200,Visa,Scott,Rungsted,Frederiksborg,Denmark,1/6/2009 6:07,55.8841667,12.5419444
+Product1,1200,Visa,mike,La Louviere,Hainaut,Belgium,1/6/2009 6:31,50.4666667,4.1833333
+Product1,1200,Visa,asuman,Chula Vista                 ,CA,United States,1/6/2009 7:18,32.64,-117.08333
+Product1,1200,Visa,Anna,Okotoks,Alberta,Canada,1/6/2009 7:23,50.7166667,-113.9666667
+Product2,3600,Visa,Sabine,London,England,United Kingdom,1/6/2009 7:45,51.52721,0.14559
+Product1,1200,Amex,Kelly,Reston                      ,VA,United States,1/6/2009 7:46,38.96861,-77.34139
+Product1,1200,Visa,Orit,Dallas                      ,TX,United States,1/6/2009 8:34,32.78333,-96.8
+Product1,1200,Visa,Frances,San Diego                   ,CA,United States,1/6/2009 9:31,32.71528,-117.15639
+Product1,1200,Diners,Matt,N Woodmere                  ,NY,United States,1/6/2009 9:45,40.66417,-73.70889
+Product1,1200,Mastercard,Anna,Lafayette                   ,CA,United States,1/6/2009 9:52,37.88583,-122.11694
+Product1,1200,Mastercard,Charlene ,Vancouver,British Columbia,Canada,1/6/2009 9:55,49.25,-123.1333333
+Product1,1200,Mastercard,Anja,New York                    ,NY,United States,1/6/2009 10:34,40.71417,-74.00639
+Product1,1200,Mastercard,Bruce and Camille,Clinton                     ,NJ,United States,1/6/2009 10:48,40.63667,-74.91028
+Product2,3600,Visa,Trina,Overland                    ,KS,United States,1/6/2009 11:17,38.98222,-94.67056
+Product1,1200,Visa,Audinet,Cambridge                   ,MA,United States,1/6/2009 12:26,42.375,-71.10611
+Product1,1200,Mastercard,Antonella,Amsterdam,Noord-Holland,Netherlands,1/6/2009 12:27,52.35,4.9166667
+Product2,3600,Amex,Kaylee,Penngrove                   ,CA,United States,1/6/2009 12:45,38.29972,-122.66556
+Product1,1200,Visa,Jeremy,Manchester,England,United Kingdom,1/6/2009 12:56,53.5,-2.2166667
+Product1,1200,Visa,Fie,New York                    ,NY,United States,1/6/2009 14:03,40.71417,-74.00639
+Product1,1200,Mastercard,Kim,Brussels,Brussels (Bruxelles),Belgium,1/6/2009 14:08,50.8333333,4.3333333
+Product1,1200,Diners,Hilde Karin,Las Vegas                   ,NV,United States,1/6/2009 14:35,36.175,-115.13639
+Product2,3600,Mastercard,Elizabeth,Den Haag,Zuid-Holland,Netherlands,1/6/2009 14:38,52.0833333,4.3
+Product1,1200,Amex,lydia,Sandy Plains                ,GA,United States,1/6/2009 15:12,34.02306,-84.36167
+Product1,1200,Mastercard,Danielle,Rathgar,Dublin,Ireland,1/6/2009 15:15,53.3122222,-6.2683333
+Product1,1200,Visa,Margaret,Terrell Hills               ,TX,United States,1/6/2009 16:07,29.42389,-98.49333
+Product2,3600,Visa,cristina,Seattle                     ,WA,United States,1/6/2009 16:08,47.60639,-122.33083
+Product1,1200,Visa,Ann,Austin                      ,TX,United States,1/6/2009 16:37,30.26694,-97.74278
+Product1,1200,Visa,Andrea,Bubuieci,Chisinau,Moldova,1/6/2009 17:15,46.985,28.9425
+Product1,1200,Visa,Cherie,Columbus                    ,OH,United States,1/6/2009 18:10,39.96111,-82.99889
+Product2,3600,Mastercard,Triona,Swampscott                  ,MA,United States,1/6/2009 18:11,42.47083,-70.91806
+Product1,1200,Visa,Tania,Vista                       ,CA,United States,1/6/2009 18:53,33.2,-117.24167
+Product2,3600,Mastercard,Christiane,Mission,British Columbia,Canada,1/6/2009 20:39,49.1333333,-122.3
+Product1,1200,Visa,Kofi,Vancouver,British Columbia,Canada,1/6/2009 21:13,49.25,-123.1333333
+Product2,3600,Amex,Ritz,Pittsfield                  ,VT,United States,1/6/2009 22:19,43.77222,-72.81333
+Product2,3600,Amex,Sylvia,Pittsfield                  ,VT,United States,1/6/2009 23:00,43.77222,-72.81333
+Product2,3600,Mastercard,Deirdre,Lausanne,Vaud,Switzerland,1/7/2009 0:12,46.5333333,6.6666667
+Product1,1200,Mastercard,Emily,Vecmilgravis,Riga,Latvia,1/7/2009 1:42,57.0333333,24.1
+Product1,1200,Amex,Jeremy,London,England,United Kingdom,1/7/2009 4:45,51.52721,0.14559
+Product1,1200,Visa,Lauren,Gries,Rhineland-Palatinate,Germany,1/7/2009 5:53,49.4166667,7.4
+Product2,3600,Visa,Tiffany ,Paris,Ile-de-France,France,1/7/2009 6:11,48.8666667,2.3333333
+Product1,1200,Mastercard,June ,Beachwood                   ,OH,United States,1/7/2009 6:18,41.46444,-81.50889
+Product1,1200,Diners,Therese,Clontarf,Dublin,Ireland,1/7/2009 6:33,53.3591667,-6.2161111
+Product1,1200,Amex,Jocelyn,Bruxelles,Brussels (Bruxelles),Belgium,1/7/2009 7:19,50.8333333,4.3333333
+Product1,1200,Amex,Cherish ,Anchorage                   ,AK,United States,1/7/2009 7:28,61.21806,-149.90028
+Product1,1200,Mastercard,Marie,Ball Ground                 ,GA,United States,1/7/2009 7:44,34.33806,-84.37667
+Product1,1200,Mastercard,john,Glan-Munchweiler,Rhineland-Palatinate,Germany,1/7/2009 8:00,49.4666667,7.4333333
+Product1,1200,Amex,maria,Ottawa,Ontario,Canada,1/7/2009 8:03,45.4166667,-75.7
+Product1,1200,Diners,Bryan Kerrene,New York                    ,NY,United States,1/7/2009 8:08,40.71417,-74.00639
+Product1,1200,Visa,Jannik ,Holmenkollen,Oslo,Norway,1/7/2009 8:21,59.9666667,10.6666667
+Product1,1200,Diners,C,Chandler                    ,AZ,United States,1/7/2009 8:26,33.30611,-111.84056
+Product1,1200,Visa,Julie ,Ashford,England,United Kingdom,1/7/2009 9:54,51.1,-4.1
+Product1,1200,Visa,Darren,Pittsboro                   ,NC,United States,1/7/2009 10:01,35.72,-79.1775
+Product1,1200,Mastercard,Emma,Sydney,New South Wales,Australia,1/7/2009 10:03,-33.8833333,151.2166667
+Product2,3600,Visa,VIOLETA,Silver Spring               ,MD,United States,1/7/2009 10:49,38.99056,-77.02639
+Product1,1200,Visa,claire ,Ballyneety,Limerick,Ireland,1/7/2009 10:52,52.5961111,-8.5469444
+Product1,1200,Visa,Erica,Nadur, ,Malta,1/7/2009 12:06,36.0377778,14.2941667
+Product2,3600,Visa,Natasha,Milano,Lombardy,Italy,1/7/2009 12:39,45.4666667,9.2
+Product1,1200,Amex,Fiona,Stamford                    ,CT,United States,1/7/2009 12:55,41.05333,-73.53917
+Product2,3600,Visa,Niki,Trelex,Vaud,Switzerland,1/7/2009 13:01,46.4166667,6.2
+Product1,1200,Visa,Darian,Izmir,Izmir,Turkey,1/7/2009 13:19,38.4072222,27.1502778
+Product1,1200,Visa,Sarah,Warwick,Quebec,Canada,1/7/2009 13:26,45.95,-71.9833333
+Product1,1200,Visa,Elizabeth,Calne,England,United Kingdom,1/7/2009 13:28,51.4333333,-2
+Product1,1200,Mastercard,Mary,Baile Atha Bui,Meath,Ireland,1/7/2009 13:28,53.6186111,-6.9205556
+Product1,1200,Mastercard,Mary,Stuttgart,Baden-Wurttemberg,Germany,1/7/2009 13:38,48.7666667,9.1833333
+Product1,1200,Diners,megan,West Hills                  ,CA,United States,1/7/2009 13:49,34.20111,-118.59722
+Product1,1200,Visa,Elsa,Waiwera,Auckland,New Zealand,1/7/2009 13:57,-36.55,174.7166667
+Product1,1200,Mastercard,Cassandra,San Carlos                  ,CA,United States,1/7/2009 14:15,37.50722,-122.25944
+Product1,1200,Visa,Jennifer,Drogheda,Louth,Ireland,1/7/2009 14:55,53.7188889,-6.3477778
+Product2,3600,Visa,Anabela,Flossmoor                   ,IL,United States,1/7/2009 15:12,41.54278,-87.68472
+Product1,1200,Mastercard,Alex,Augusta                     ,GA,United States,1/7/2009 17:48,33.51722,-82.07583
+Product1,1200,Visa,Marie,Dickerson                   ,MD,United States,1/7/2009 17:51,39.22,-77.42444
+Product1,1200,Mastercard,Selma,Greenville                  ,TX,United States,1/7/2009 18:15,33.13833,-96.11056
+Product1,1200,Visa,Marie-Christine,Durham                      ,NC,United States,1/7/2009 18:53,35.99389,-78.89889
+Product2,3600,Mastercard,Cindy,Englewood                   ,CO,United States,1/7/2009 19:03,39.64778,-104.98722
+Product2,3600,Amex,Brittany,Orlando                     ,FL,United States,1/7/2009 19:06,28.53806,-81.37944
+Product1,1200,Mastercard,loudon,Ottawa,Ontario,Canada,1/7/2009 19:18,45.4166667,-75.7
+Product2,3600,Mastercard,TRICIA,Sydney,New South Wales,Australia,1/7/2009 19:48,-33.8833333,151.2166667
+Product1,1200,Diners,Delphine,Santa Monica                ,CA,United States,1/7/2009 19:50,34.01944,-118.49028
+Product1,1200,Visa,Karen,Austin                      ,TX,United States,1/7/2009 20:01,30.26694,-97.74278
+Product1,1200,Amex,Nicole,Houston                     ,TX,United States,1/7/2009 20:15,29.76306,-95.36306
+Product1,1200,Visa,Gina,Red Deer,Alberta,Canada,1/7/2009 20:22,52.2666667,-113.8
+Product1,1200,Mastercard,Esther,Cincinnati                  ,OH,United States,1/7/2009 20:55,39.16194,-84.45694
+Product1,1200,Mastercard,lailani,Anchorage                   ,AK,United States,1/7/2009 22:29,61.21806,-149.90028
+Product1,1200,Visa,ZOE,New Plymouth City,Taranaki,New Zealand,1/8/2009 0:04,-39.0666667,174.0833333
+Product1,1200,Visa,Family,Los Gatos                   ,CA,United States,1/8/2009 0:42,37.22667,-121.97361
+Product1,1200,Mastercard,SYLVIA,Vesenaz,Geneve,Switzerland,1/8/2009 1:59,46.2333333,6.2
+Product1,1200,Mastercard,Ken,Sidcup,England,United Kingdom,1/8/2009 2:46,51.4166667,0.1166667
+Product2,3600,Mastercard,Caroline,Begnins,Vaud,Switzerland,1/8/2009 2:49,46.4333333,6.25
+Product1,1200,Mastercard,Linda,Miami                       ,FL,United States,1/8/2009 3:16,25.77389,-80.19389
+Product1,1200,Visa,amanda,Liverpool,England,United Kingdom,1/8/2009 3:29,53.4166667,-3
+Product1,1200,Mastercard,Katherine,New York                    ,NY,United States,1/8/2009 3:56,40.71417,-74.00639
+Product1,1200,Visa,Elyssa,Gdansk,Pomorskie,Poland,1/8/2009 4:15,54.35,18.6666667
+Product1,1200,Visa,Alan,Malahide,Dublin,Ireland,1/8/2009 4:16,53.4508333,-6.1544444
+Product1,1200,Visa,Rich,Ingelheim-Mitte,Rhineland-Palatinate,Germany,1/8/2009 6:29,49.9833333,8.0666667
+Product1,1200,Mastercard,anne,Bournemouth,England,United Kingdom,1/8/2009 7:26,50.7166667,-1.8833333
+Product1,1200,Diners,Karin,High Wycombe,England,United Kingdom,1/8/2009 8:11,51.6333333,-0.7666667
+Product1,1200,Mastercard,Doug,Huntington                  ,NY,United States,1/8/2009 8:58,40.86806,-73.42611
+Product1,1200,Visa,Kasey,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France,1/8/2009 9:43,43.5333333,5.4333333
+Product1,1200,Diners,Benoit,Fort Saint James,British Columbia,Canada,1/8/2009 10:13,54.4333333,-124.25
+Product1,1200,Visa,Catherine,Mount Forest,Ontario,Canada,1/8/2009 10:44,43.9666667,-80.7333333
+Product2,3600,Visa,Liz,Langnau,Zurich,Switzerland,1/8/2009 11:14,47.2833333,8.5333333
+Product2,3600,Visa,Caren,Braunschweig,Lower Saxony,Germany,1/8/2009 11:55,52.2666667,10.5333333
+Product1,1200,Diners,julie,Haverhill,England,United Kingdom,1/8/2009 11:55,52.0833333,0.4333333
+Product1,1200,Diners,Andrea,Calgary,Alberta,Canada,1/8/2009 12:03,51.0833333,-114.0833333
+Product1,1200,Visa,jennifer,Morro Bay                   ,CA,United States,1/8/2009 12:04,35.36583,-120.84889
+Product1,1200,Mastercard,Trine Marie,Orillia,Ontario,Canada,1/8/2009 12:46,44.6,-79.4166667
+Product1,1200,Visa,Dr. Claudia,Oslo,Oslo,Norway,1/8/2009 13:14,59.9166667,10.75
+Product1,1200,Mastercard,valerie et nicolas,Glenn Dale                  ,MD,United States,1/8/2009 13:19,38.9875,-76.82083
+Product1,1200,Visa,Mimi,Monte-Carlo, ,Monaco,1/8/2009 13:33,43.7333333,7.4166667
+Product1,1200,Visa,Bruce,Belleville,Ontario,Canada,1/8/2009 13:34,44.1666667,-77.3833333
+Product1,1200,Amex,Angelina  Patrick,San Diego                   ,CA,United States,1/8/2009 14:04,32.71528,-117.15639
+Product1,1200,Visa,Dottie,Woodsboro                   ,MD,United States,1/8/2009 15:16,39.53306,-77.315
+Product1,1200,Mastercard,Jennifer,Chicago                     ,IL,United States,1/8/2009 15:27,41.85,-87.65
+Product1,1200,Visa,jennifer,Phoenix                     ,AZ,United States,1/8/2009 16:24,33.44833,-112.07333
+Product1,1200,Diners,Veronique,Tenafly                     ,NJ,United States,1/8/2009 18:41,40.92528,-73.96333
+Product1,1200,Visa,Nadine,Belgrade                    ,MT,United States,1/8/2009 18:52,45.77611,-111.17611
+Product2,3600,Visa,Christian,Mableton                    ,GA,United States,1/8/2009 19:26,33.81861,-84.5825
+Product2,3600,Mastercard,PATRICK,Ban Khlong Sip,Krung Thep,Thailand,1/8/2009 19:29,13.9166667,100.8166667
+Product1,1200,Visa,Kim,Calgary,Alberta,Canada,1/8/2009 20:32,51.0833333,-114.0833333
+Product1,1200,Visa,Pam and Rob,Yorba Linda                 ,CA,United States,1/8/2009 20:52,33.88861,-117.81222
+Product1,1200,Visa,Dickson,Kemerburgaz,Istanbul,Turkey,1/8/2009 23:00,41.1594444,28.9127778
+Product1,1200,Visa,Jacob,Lindfield,New South Wales,Australia,1/8/2009 23:40,-33.7833333,151.1666667
+Product1,1200,Visa,Sabrina,Rambouillet,Ile-de-France,France,1/9/2009 1:12,48.65,1.8333333
+Product2,3600,Amex,Ghislaine,Ferney-Voltaire,Rhone-Alpes,France,1/9/2009 3:03,46.25,6.1166667
+Product1,1200,Visa,Ravinder,Lurgan,Northern Ireland,United Kingdom,1/9/2009 3:38,54.4666667,-6.3333333
+Product1,1200,Visa,Roza,Alcobendas,Madrid,Spain,1/9/2009 5:15,40.5333333,-3.6333333
+Product1,1200,Mastercard,Anneli,Houston                     ,TX,United States,1/9/2009 6:39,29.76306,-95.36306
+Product1,1200,Visa,Stacy,Rochester Hills             ,MI,United States,1/9/2009 7:49,42.68056,-83.13389
+Product1,1200,Amex,Precious,Edmonton,Alberta,Canada,1/9/2009 8:35,53.55,-113.5
+Product1,1200,Diners,Debora ,Wall                        ,NJ,United States,1/9/2009 8:57,40.1478,-74.2133
+Product1,1200,Mastercard,HELIDA,White House                 ,TN,United States,1/9/2009 10:22,36.47028,-86.65139
+Product2,3600,Visa,Jenna and Paul,Senatobia                   ,MS,United States,1/9/2009 10:35,34.6175,-89.96861
+Product1,1200,Visa,Jasinta Jeanne,Owings Mills                ,MD,United States,1/9/2009 11:14,39.41944,-76.78056
+Product1,1200,Amex,James,Guer,Brittany,France,1/9/2009 14:25,47.9,-2.1166667
+Product1,1200,Visa,Leah,Castleknock,Dublin,Ireland,1/9/2009 14:27,53.3786111,-6.3922222
+Product1,1200,Visa,Laine,Castleknock,Dublin,Ireland,1/9/2009 14:32,53.3786111,-6.3922222
+Product1,1200,Visa,Nona,South Jordan                ,UT,United States,1/9/2009 14:37,40.56222,-111.92889
+Product1,1200,Visa,Bob,Sydney,New South Wales,Australia,1/9/2009 14:51,-33.8833333,151.2166667
+Product1,1200,Visa,John,Banbury,England,United Kingdom,1/9/2009 14:55,52.05,-1.3333333
+Product1,1200,Visa,Reto,Seattle                     ,WA,United States,1/9/2009 15:03,47.60639,-122.33083
+Product1,1200,Mastercard,alex ,Farmingtn Hls               ,MI,United States,1/9/2009 15:24,42.46444,-83.37639
+Product1,1200,Diners,Nicole ,Basingstoke,England,United Kingdom,1/9/2009 15:32,51.2666667,-1.0833333
+Product1,1200,Mastercard,Sari,Newbury,England,United Kingdom,1/9/2009 15:58,51.4,-1.3166667
+Product1,1200,Diners,Jennifer,Nordstrand,Oslo,Norway,1/9/2009 16:35,59.8608333,10.7905556
+Product1,1200,Visa,David,Alpharetta                  ,GA,United States,1/9/2009 18:52,34.07528,-84.29417
+Product1,1200,Mastercard,Tarah,San Jose                    ,CA,United States,1/9/2009 19:41,37.33944,-121.89389
+Product1,1200,Visa,Beckie ,Ladera Ranch                ,CA,United States,1/9/2009 20:00,33.57056,-117.63861
+Product1,1200,Diners,Mona,Kelowna,British Columbia,Canada,1/9/2009 20:25,49.9,-119.4833333
+Product1,1200,Mastercard,Lizelle ,Mililani                    ,HI,United States,1/10/2009 0:04,21.42556,-157.96083
+Product1,1200,Visa,frauke,Horten,Vestfold,Norway,1/10/2009 3:28,59.4136111,10.4669444
+Product1,1200,Visa,stacy,Stuttgart,Baden-Wurttemberg,Germany,1/10/2009 3:43,48.7666667,9.1833333
+Product1,1200,Visa,Jessica,Oldenburg,Lower Saxony,Germany,1/10/2009 4:04,53.1666667,8.2
+Product1,1200,Visa,Gloria Gail ,Foxrock,Dublin,Ireland,1/10/2009 4:12,53.2666667,-6.1741667
+Product1,1200,Amex,CLARE,San Francisco               ,CA,United States,1/10/2009 5:21,37.775,-122.41833
+Product1,1200,Visa,Peter,Shankill,Dublin,Ireland,1/10/2009 7:37,53.2261111,-6.1244444
+Product1,1200,Visa,Laura,Jumeira,Dubayy,United Arab Emirates,1/10/2009 7:55,25.2097222,55.2477778
+Product1,1200,Visa,suzanne,Lemont                      ,IL,United States,1/10/2009 8:13,41.67361,-88.00167
+Product1,1200,Mastercard,Eleanor,Edinburgh,Scotland,United Kingdom,1/10/2009 8:13,55.95,-3.2
+Product2,3600,Mastercard,Patricia ,Portola Valley              ,CA,United States,1/10/2009 8:33,37.38417,-122.23417
+Product1,1200,Diners,luisa,Gorey, ,Jersey,1/10/2009 9:18,49.2,-2.0333333
+Product2,3600,Mastercard,Cheryl,Hilton Head                 ,SC,United States,1/10/2009 9:32,32.21611,-80.75278
+Product1,1200,Amex,Joanna,Little Silver               ,NJ,United States,1/10/2009 11:37,40.33667,-74.0475
+Product1,1200,Visa,Martin,Ludwigsburg,Baden-Wurttemberg,Germany,1/10/2009 11:53,48.9,9.1833333
+Product1,1200,Visa,Karina,Fort Lauderdale             ,FL,United States,1/10/2009 12:05,26.12194,-80.14361
+Product1,1200,Amex,Vanessa,Sandy Springs               ,GA,United States,1/10/2009 12:57,33.92417,-84.37861
+Product1,1200,Visa,Rachel,Hamilton,Ontario,Canada,1/10/2009 13:42,43.25,-79.8333333
+Product1,1200,Mastercard,Kevin,Cheltenham,England,United Kingdom,1/10/2009 14:03,51.9,-2.0833333
+Product1,1200,Diners,Anupam,Kinsaley,Dublin,Ireland,1/10/2009 14:43,53.4247222,-6.1758333
+Product1,1200,Visa,Angela,Ankeny                      ,IA,United States,1/10/2009 14:56,41.72972,-93.60556
+Product1,1200,Amex,Maricel,Malibu                      ,CA,United States,1/10/2009 14:59,34.005,-118.80917
+Product2,3600,Mastercard,Jo ,Huntington Beach            ,CA,United States,1/10/2009 15:18,33.66028,-117.99833
+Product1,1200,Visa,Hollie,San Diego                   ,CA,United States,1/10/2009 16:02,32.71528,-117.15639
+Product1,1200,Visa,Jiri,Vienna                      ,VA,United States,1/10/2009 17:41,38.90111,-77.26556
+Product2,3600,Visa,Nicola,San Jose                    ,CA,United States,1/10/2009 19:28,37.33944,-121.89389
+Product1,1200,Mastercard,Sharon,Ajax,Ontario,Canada,1/10/2009 21:35,43.85,-79.0166667
+Product1,1200,Visa,Craig,Seattle                     ,WA,United States,1/10/2009 21:36,47.60639,-122.33083
+Product1,1200,Visa,Anushka,Maple Ridge District Municipality,British Columbia,Canada,1/10/2009 21:38,49.25,-122.5
+Product1,1200,Mastercard,Chris,Den Haag,Zuid-Holland,Netherlands,1/11/2009 0:15,52.0833333,4.3
+Product1,1200,Visa,chris,Gold Coast,Queensland,Australia,1/11/2009 2:04,-28,153.4333333
+Product3,7500,Visa,Hans,Knoxville                   ,TN,United States,1/11/2009 4:29,35.96056,-83.92083
+Product1,1200,Visa,William,Chalfont Saint Peter,England,United Kingdom,1/11/2009 4:34,51.6,-0.55
+Product1,1200,Visa,Sandra  Thierry  Zoe,Knoxville                   ,TN,United States,1/11/2009 4:39,35.96056,-83.92083
+Product1,1200,Amex,Caroline,Marietta                    ,GA,United States,1/11/2009 4:55,33.9525,-84.55
+Product1,1200,Mastercard,Anna,New York                    ,NY,United States,1/11/2009 6:01,40.71417,-74.00639
+Product1,1200,Amex,A,Saint Petersburg            ,FL,United States,1/11/2009 6:09,27.77056,-82.67944
+Product2,3600,Visa,Shiree,Clondalkin,Dublin,Ireland,1/11/2009 6:46,53.3244444,-6.3972222
+Product1,1200,Visa,Aziz,Irpin',Kiev,Ukraine,1/11/2009 6:51,50.5166667,30.25
+Product1,1200,Visa,Oswald,Tramore,Waterford,Ireland,1/11/2009 7:09,52.1588889,-7.1463889
+Product2,3600,Visa,LAURIE,Guildford,England,United Kingdom,1/11/2009 7:10,51.2166667,-0.5666667
+Product1,1200,Amex,Juliann,Winter Spgs                 ,FL,United States,1/11/2009 8:41,28.69861,-81.30833
+Product1,1200,Visa,Chelsey ,Ashburn                     ,VA,United States,1/11/2009 8:59,39.04361,-77.48778
+Product1,1200,Visa,Bato,Munchengosserstadt,Thuringia,Germany,1/11/2009 9:50,51.05,11.65
+Product1,1200,Visa,familly ,Creemore,Ontario,Canada,1/11/2009 9:55,44.3166667,-80.1
+Product1,1200,Mastercard,AnaPaula,Helens Bay,Northern Ireland,United Kingdom,1/11/2009 10:38,54.65,-5.7333333
+Product1,1200,Mastercard,Katherine,Hofheim am Taunus,Hessen,Germany,1/11/2009 10:51,50.0833333,8.45
+Product1,1200,Visa,Klara,Spring Lake Park            ,MN,United States,1/11/2009 11:20,45.10778,-93.23778
+Product1,1200,Visa,Stefan,Stavanger,Rogaland,Norway,1/11/2009 11:33,58.9666667,5.75
+Product1,1200,Mastercard,Hollyn,London,England,United Kingdom,1/11/2009 11:36,51.51334,-0.08895
+Product1,1200,Visa,Helga,Clontarf,Dublin,Ireland,1/11/2009 12:12,53.3591667,-6.2161111
+Product1,1200,Visa,Marina,Minneapolis                 ,MN,United States,1/11/2009 12:22,44.98,-93.26361
+Product1,1200,Visa,Rosa Maria,Cincinnati                  ,OH,United States,1/11/2009 13:08,39.16194,-84.45694
+Product2,3600,Visa,shelby,Plantation                  ,FL,United States,1/11/2009 13:16,26.12194,-80.14361
+Product1,1200,Visa,Sarah,San Francisco               ,CA,United States,1/11/2009 14:07,37.775,-122.41833
+Product1,1200,Visa,Stephanie,Brussels,Brussels (Bruxelles),Belgium,1/11/2009 14:17,50.8333333,4.3333333
+Product1,1200,Visa,Nicole,Aardal,Sogn og Fjordane,Norway,1/11/2009 14:56,61.55,6.35
+Product1,1200,Visa,kirsten,Bishops Stortford,England,United Kingdom,1/11/2009 15:59,51.8666667,0.1666667
+Product1,1200,Visa,Antje,Sacramento                  ,CA,United States,1/11/2009 17:06,38.58167,-121.49333
+Product1,1200,Visa,Sophie,Newtown                     ,CT,United States,1/11/2009 17:28,41.41389,-73.30389
+Product2,3600,Visa,Danny,St Thomas                   ,VI,United States,1/11/2009 17:52,18.35917,-64.92111
+Product1,1200,Diners,Maja,Hoschton                    ,GA,United States,1/11/2009 19:01,34.09639,-83.76139
+Product2,3600,Visa,STEPHANIE,Mona Vale,New South Wales,Australia,1/11/2009 22:22,-33.6666667,151.3
+Product1,1200,Mastercard,Andrea,Brondby Strand,Kobenhavn,Denmark,1/12/2009 0:17,55.6166667,12.35
+Product1,1200,Visa,IMAN,Brisbane,Queensland,Australia,1/12/2009 1:37,-27.5,153.0166667
+Product1,1200,Mastercard,Beate,Hamburg,Hamburg,Germany,1/12/2009 1:42,53.55,10
+Product2,3600,Mastercard,Valda,Irvine                      ,CA,United States,1/12/2009 3:03,33.66944,-117.82222
+Product1,1200,Mastercard,chrissy,W Lebanon                   ,NH,United States,1/12/2009 3:25,43.64917,-72.31083
+Product1,1200,Mastercard,Bernadett,Southampton,England,United Kingdom,1/12/2009 5:18,50.9,-1.4
+Product3,7500,Mastercard,Brona,Den Haag,Zuid-Holland,Netherlands,1/12/2009 5:50,52.0833333,4.3
+Product1,1200,Visa,Dez,Al 'Adliyah,Al Manamah,Bahrain,1/12/2009 6:40,26.2172222,50.5405556
+Product1,1200,Visa,Stephanie,Fairfax                     ,CA,United States,1/12/2009 7:23,37.98722,-122.58778
+Product1,1200,Amex,Megan,La Alberca,Murcia,Spain,1/12/2009 7:28,37.9333333,-1.1333333
+Product1,1200,Amex,Francoise ,Danville                    ,PA,United States,1/12/2009 8:05,40.96333,-76.61306
+Product1,1200,Amex,mary,Nacka,Stockholm,Sweden,1/12/2009 8:13,59.3,18.1666667
+Product1,1200,Mastercard,Jacob,Winter Haven                ,FL,United States,1/12/2009 9:23,28.02194,-81.73306
+Product1,1200,Diners,Petra,Bergen,Nordrhein-Westfalen,Germany,1/12/2009 9:43,51.7166667,6.5
+Product2,3600,Amex,Pamela,Bellinzona,Ticino,Switzerland,1/12/2009 10:05,46.2,9.0166667
+Product1,1200,Mastercard,Tina,Calgary,Alberta,Canada,1/12/2009 10:06,51.0833333,-114.0833333
+Product2,3600,Mastercard,Judy,Washington                  ,DC,United States,1/12/2009 10:08,38.895,-77.03667
+Product1,1200,Amex,Justine,Seattle                     ,WA,United States,1/12/2009 10:33,47.60639,-122.33083
+Product1,1200,Visa,Karen,Madrid,Madrid,Spain,1/12/2009 11:16,40.4,-3.6833333
+Product2,3600,Visa,Debra,Toronto,Ontario,Canada,1/12/2009 11:40,43.6666667,-79.4166667
+Product1,1200,Visa,Veronique ,Tsawwassen,British Columbia,Canada,1/12/2009 11:48,49.0166667,-123.0833333
+Product1,1200,Mastercard,Lisa,South Waterford             ,ME,United States,1/12/2009 11:48,44.1786,-70.7164
+Product1,1200,Mastercard,Tammy,Milford                     ,ME,United States,1/12/2009 12:00,44.94611,-68.64444
+Product1,1200,Visa,Ed,Nacka,Stockholm,Sweden,1/12/2009 12:04,59.3,18.1666667
+Product1,1200,Mastercard,JP,Tierp,Uppsala,Sweden,1/12/2009 12:22,60.3333333,17.5
+Product1,1200,Visa,Janet,Marietta                    ,GA,United States,1/12/2009 12:37,33.9525,-84.55
+Product2,3600,Amex,Leila,Ponte San Nicolo,Veneto,Italy,1/12/2009 13:23,45.3666667,11.6166667
+Product1,1200,Visa,Eric,Gasperich,Luxembourg,Luxembourg,1/12/2009 13:41,49.5855556,6.1230556
+Product1,1200,Amex,dia,Claygate,England,United Kingdom,1/12/2009 13:41,51.35,-0.35
+Product1,1200,Mastercard,steve,Evires,Rhone-Alpes,France,1/12/2009 14:37,46.0333333,6.2333333
+Product1,1200,Visa,Holly,Arlington                   ,MA,United States,1/12/2009 14:50,42.41528,-71.15694
+Product1,1200,Mastercard,David,Deptford                    ,NJ,United States,1/12/2009 15:12,39.83806,-75.15306
+Product1,1200,Visa,Camille and Carmen,Thorlakshofn, ,Iceland,1/12/2009 15:16,63.85,-21.3666667
+Product1,1200,Visa,Vicki and Bill,Seattle                     ,WA,United States,1/12/2009 16:50,47.60639,-122.33083
+Product2,3600,Diners,elizabeth r,Winter Haven                ,FL,United States,1/12/2009 17:19,28.02194,-81.73306
+Product1,1200,Amex,Alfredo A,Las Vegas                   ,NV,United States,1/12/2009 17:28,36.175,-115.13639
+Product1,1200,Diners,Anthony,Victor                      ,NY,United States,1/12/2009 18:24,42.9825,-77.40917
+Product1,1200,Visa,Lydia,Comox,British Columbia,Canada,1/12/2009 19:04,49.6833333,-124.9333333
+Product1,1200,Mastercard,Blanca Gabriela ,Irving                      ,TX,United States,1/12/2009 19:47,32.81389,-96.94861
+Product1,1200,Visa,Glen,Atlantida,Guatemala,Guatemala,1/12/2009 20:31,14.65,-90.4833333
+Product1,1200,Visa,Alicja ,Kenmore                     ,WA,United States,1/12/2009 20:43,47.7575,-122.24278
+Product1,1200,Visa,Julia ,Madison                     ,WI,United States,1/12/2009 21:30,43.07306,-89.40111
+Product1,1200,Mastercard,Lusell,Oberwil,Basel-Country,Switzerland,1/12/2009 23:21,47.5166667,7.55
+Product1,1200,Visa,Lisa,Perth,Western Australia,Australia,1/12/2009 23:35,-31.9333333,115.8333333
+Product1,1200,Mastercard,simone,Lyngby,Kobenhavn,Denmark,1/13/2009 1:46,55.7666667,12.5166667
+Product1,1200,Visa,Filip and Teresa,Centurion,Gauteng,South Africa,1/13/2009 1:51,-25.8744444,28.1705556
+Product1,1200,Mastercard,Damian,Mettlach,Saarland,Germany,1/13/2009 1:55,49.5,6.6
+Product1,1200,Visa,Maryse,Rathfarnham,Dublin,Ireland,1/13/2009 2:47,53.3005556,-6.2827778
+Product1,1200,Visa,Robin,Milan,Lombardy,Italy,1/13/2009 5:57,45.4666667,9.2
+Product1,1200,Mastercard,Kit,Suwanee                     ,GA,United States,1/13/2009 5:58,34.05139,-84.07139
+Product1,1200,Visa,Gitte,Staten Island               ,NY,United States,1/13/2009 6:13,40.63667,-74.15917
+Product2,3600,Amex,John,Chicago                     ,IL,United States,1/13/2009 7:09,41.85,-87.65
+Product2,3600,Visa,Daniele,Katy                        ,TX,United States,1/13/2009 8:11,29.78556,-95.82417
+Product1,1200,Mastercard,Zane,Warlingham,England,United Kingdom,1/13/2009 8:20,51.3,-0.05
+Product1,1200,Visa,sangeeta,Vossevangen,Hordaland,Norway,1/13/2009 9:14,60.6333333,6.4333333
+Product1,1200,Visa,Sigrun,Nashville                   ,TN,United States,1/13/2009 9:16,36.16583,-86.78444
+Product1,1200,Visa,Kerry,Anieres,Geneve,Switzerland,1/13/2009 9:26,46.2833333,6.2166667
+Product1,1200,Visa,Elizabeth,North Eastham               ,MA,United States,1/13/2009 9:40,41.865,-69.99167
+Product1,1200,Mastercard,Priska,Calgary,Alberta,Canada,1/13/2009 9:51,51.0833333,-114.0833333
+Product1,1200,Visa,Clare,Keller                      ,VA,United States,1/13/2009 11:26,37.61917,-75.76417
+Product1,1200,Visa,Anett,Gosport,England,United Kingdom,1/13/2009 11:31,50.8,-1.1333333
+Product1,1200,Visa,alice and rudolf,Baltimore                   ,MD,United States,1/13/2009 11:54,39.2725,-76.53167
+Product1,1200,Diners,Karen,Montreal,Quebec,Canada,1/13/2009 11:56,45.5,-73.5833333
+Product1,1200,Visa,Majken,Charlottenlund,Kobenhavn,Denmark,1/13/2009 12:51,55.75,12.5833333
+Product2,3600,Mastercard,Anthony,Toronto,Ontario,Canada,1/13/2009 13:19,43.6666667,-79.4166667
+Product1,1200,Visa,Louise,London,England,United Kingdom,1/13/2009 13:36,51.52721,0.14559
+Product1,1200,Visa,Joanne,Castlebar,Mayo,Ireland,1/13/2009 13:49,53.85,-9.3
+Product1,1200,Amex,Christof and Heidi,Barcelona,Catalonia,Spain,1/13/2009 14:05,41.3833333,2.1833333
+Product2,3600,Visa,george,Zurich,Zurich,Switzerland,1/13/2009 14:44,47.3666667,8.55
+Product1,1200,Visa,leiser,N Java                      ,NY,United States,1/13/2009 14:53,42.68361,-78.33806
+Product1,1200,Amex,Beatriz,Centerport                  ,NY,United States,1/13/2009 15:18,40.88528,-73.37667
+Product2,3600,Visa,Maggie,Paris,Ile-de-France,France,1/13/2009 15:19,48.8666667,2.3333333
+Product1,1200,Amex,Amanda,Houston                     ,TX,United States,1/13/2009 18:08,29.76306,-95.36306
+Product1,1200,Visa,Jolene ,Englewood                   ,CO,United States,1/13/2009 19:39,39.64778,-104.98722
+Product1,1200,Diners,Alison,Hampton                     ,NJ,United States,1/13/2009 19:54,40.70694,-74.95639
+Product1,1200,Visa,Kim,Kelowna,British Columbia,Canada,1/13/2009 20:22,49.9,-119.4833333
+Product1,1200,Mastercard,Andrew,Winnipeg,Manitoba,Canada,1/13/2009 20:59,49.8833333,-97.1666667
+Product1,1200,Mastercard,Tod,Coral Gables                ,FL,United States,1/13/2009 23:56,25.72111,-80.26861
+Product2,3600,Mastercard,Piret,Bunbury,Western Australia,Australia,1/14/2009 0:03,-33.3333333,115.6333333
+Product2,3600,Visa,Michael,Paris,Ile-de-France,France,1/14/2009 0:15,48.8666667,2.3333333
+Product1,1200,Mastercard,Sabine,Milton Keynes,England,United Kingdom,1/14/2009 1:28,52.0333333,-0.7
+Product1,1200,Mastercard,Angela,Newburgh,Scotland,United Kingdom,1/14/2009 3:09,56.3333333,-3.25
+Product1,1200,Visa,jo,Ballincollig,Cork,Ireland,1/14/2009 3:39,51.8833333,-8.5833333
+Product1,1200,Visa,Michelle,Ballincollig,Cork,Ireland,1/14/2009 3:47,51.8833333,-8.5833333
+Product1,1200,Mastercard,ZENA,Honolulu                    ,HI,United States,1/14/2009 4:54,21.30694,-157.85833
+Product2,3600,Visa,Kristen,Binningen,Basel-Country,Switzerland,1/14/2009 5:20,47.5333333,7.5666667
+Product1,1200,Visa,Kate,Broadlands                  ,VA,United States,1/14/2009 6:32,39.04361,-77.48778
+Product1,1200,Visa,Eric,Melbourne,Victoria,Australia,1/14/2009 6:35,-37.8166667,144.9666667
+Product1,1200,Visa,Bent Erik,Basauri,Pais Vasco,Spain,1/14/2009 7:30,43.0166667,-2.4
+Product2,3600,Amex,Ruth,Saskatoon,Saskatchewan,Canada,1/14/2009 8:16,52.1333333,-106.6666667
+Product1,1200,Visa,jingyan,Bristol                     ,RI,United States,1/14/2009 8:38,41.67694,-71.26667
+Product1,1200,Mastercard,Ellen,Owensboro                   ,KY,United States,1/14/2009 9:10,37.77417,-87.11333
+Product3,7500,Mastercard,Diana,Campinas,Sao Paulo,Brazil,1/14/2009 10:32,-22.9,-47.0833333
+Product1,1200,Visa,Jennifer,Jumeira,Dubayy,United Arab Emirates,1/14/2009 11:19,25.2097222,55.2477778
+Product1,1200,Visa,Kenny,Kailua Kona                 ,HI,United States,1/14/2009 11:35,19.7349,-155.9003
+Product1,1200,Mastercard,Lainey,Lakeville                   ,MN,United States,1/14/2009 12:07,44.64972,-93.2425
+Product1,1200,Visa,SUSAN,Oxford,England,United Kingdom,1/14/2009 12:33,51.75,-1.25
+Product1,1200,Visa,Richard and Comfort,Regensdorf,Zurich,Switzerland,1/14/2009 12:55,47.4333333,8.4666667
+Product1,1200,Diners,eugenia,Wisconsin Rapids            ,WI,United States,1/14/2009 13:23,44.38361,-89.81722
+Product1,1200,Amex,ayse,Redondo Beach               ,CA,United States,1/14/2009 15:40,33.84917,-118.3875
+Product1,1200,Mastercard,Jessica,Woodland Hills              ,CA,United States,1/14/2009 16:02,34.16833,-118.605
+Product1,1200,Visa,Wouter and Andrea,Anchorage                   ,AK,United States,1/14/2009 18:05,61.21806,-149.90028
+Product1,1200,Visa,luciana,Athens                      ,GA,United States,1/14/2009 18:21,33.96083,-83.37806
+Product1,1200,Visa,Janaina,Miami                       ,FL,United States,1/14/2009 19:32,25.77389,-80.19389
+Product1,1200,Visa,Amy,Lakewood Village            ,TX,United States,1/14/2009 22:44,33.1425,-96.96917
+Product1,1200,Diners,Karen,Roquefort,Provence-Alpes-Cote d'Azur,France,1/15/2009 1:41,43.25,5.6166667
+Product1,1200,Mastercard,Alexis,Genoa                       ,IL,United States,1/15/2009 2:40,42.09722,-88.69278
+Product1,1200,Visa,Stephanie,Rouen,Upper Normandy,France,1/15/2009 3:43,49.4333333,1.0833333
+Product1,1200,Mastercard,catherine,Keller                      ,VA,United States,1/15/2009 4:12,37.61917,-75.76417
+Product2,3600,Visa,Pam,London,England,United Kingdom,1/15/2009 5:11,51.52721,0.14559
+Product2,3600,Visa,Derrick,North Bay,Ontario,Canada,1/15/2009 5:27,46.3,-79.45
+Product1,1200,Visa,Dave and Amy,Norfolk                     ,VA,United States,1/15/2009 5:47,36.84667,-76.28556
+Product1,1200,Mastercard,Celina,Den Haag,Zuid-Holland,Netherlands,1/15/2009 7:26,52.0833333,4.3
+Product1,1200,Visa,Kirstie,Royal Oak                   ,MI,United States,1/15/2009 8:07,42.48944,-83.14472
+Product1,1200,Visa,Scott ,Royal Oak                   ,MI,United States,1/15/2009 8:10,42.48944,-83.14472
+Product1,1200,Visa,Katherine,Marietta                    ,GA,United States,1/15/2009 8:12,33.9525,-84.55
+Product1,1200,Visa,Cormac,Freeport City,Freeport,The Bahamas,1/15/2009 9:00,26.5333333,-78.7
+Product1,1200,Amex,Mark,Holmdel                     ,NJ,United States,1/15/2009 9:52,40.345,-74.18444
+Product3,7500,Visa,Karin,Olive Branch                ,MS,United States,1/15/2009 10:16,34.96167,-89.82944
+Product1,1200,Visa,Grace ,York,England,United Kingdom,1/15/2009 10:24,53.9666667,-1.0833333
+Product1,1200,Visa,lamia,Little Compton              ,RI,United States,1/15/2009 10:37,41.51,-71.17167
+Product1,1200,Mastercard,Pia ,Sola,Rogaland,Norway,1/15/2009 10:51,58.8833333,5.6
+Product1,1200,Visa,Nicole,Brookline                   ,MA,United States,1/15/2009 11:26,42.33167,-71.12167
+Product1,1200,Visa,Maggie,Libertyville                ,IL,United States,1/15/2009 11:43,42.28306,-87.95306
+Product1,1200,Diners,Simone,Watford,England,United Kingdom,1/15/2009 11:45,51.6666667,-0.4
+Product1,1200,Visa,Heidi,Calgary,Alberta,Canada,1/15/2009 11:56,51.0833333,-114.0833333
+Product1,1200,Visa,Jessica,Kanata,Ontario,Canada,1/15/2009 11:58,45.3333333,-75.9
+Product1,1200,Visa,Brian,College Park                ,MD,United States,1/15/2009 12:33,38.98056,-76.93722
+Product1,1200,Mastercard,Annelies,Ile-Perrot,Quebec,Canada,1/15/2009 12:54,45.4,-73.9333333
+Product1,1200,Visa,Sara,Fort Lauderdale             ,FL,United States,1/15/2009 15:22,26.12194,-80.14361
+Product1,1200,Visa,Sarah,Bolton,England,United Kingdom,1/15/2009 15:26,53.5833333,-2.4333333
+Product1,1200,Amex,Charis,Los Angeles                 ,CA,United States,1/15/2009 15:56,34.05222,-118.24278
+Product2,3600,Visa,Charmain,Cartersburg                 ,IN,United States,1/15/2009 15:56,39.69861,-86.46361
+Product2,3600,Amex,Monica,Villanova                   ,PA,United States,1/15/2009 18:08,40.03722,-75.34944
+Product1,1200,Diners,Mandy,Hono                        ,HI,United States,1/15/2009 18:12,21.30694,-157.85833
+Product2,3600,Diners,Therese,Pensacola                   ,FL,United States,1/15/2009 19:10,30.42111,-87.21694
+Product1,1200,Visa,Caroline,Toronto,Ontario,Canada,1/15/2009 21:53,43.6666667,-79.4166667
+Product2,3600,Diners,Lesley,Cork,Cork,Ireland,1/16/2009 1:07,51.8986111,-8.4958333
+Product1,1200,Visa,Angela,Vienna,Vienna,Austria,1/16/2009 1:51,48.2,16.3666667
+Product3,7500,Visa,Kristyn,Kearns                      ,UT,United States,1/16/2009 2:41,40.66,-111.99556
+Product1,1200,Amex,Lisa,Brulon,Pays de la Loire,France,1/16/2009 5:07,47.9666667,-0.2333333
+Product2,3600,Visa,Karen,Berikon,Aargau,Switzerland,1/16/2009 5:12,47.35,8.3833333
+Product1,1200,Mastercard,Alexis,Ehingen an der Donau,Baden-Wurttemberg,Germany,1/16/2009 6:04,48.2833333,9.7333333
+Product1,1200,Mastercard,Niamh,Benoni,Gauteng,South Africa,1/16/2009 6:13,-26.1833333,28.3166667
+Product2,3600,Mastercard,Jag,Saint-Cergues,Rhone-Alpes,France,1/16/2009 7:20,46.2333333,6.3166667
+Product1,2100,Mastercard,Gerald,Mahopac                     ,NY,United States,1/16/2009 7:21,41.37222,-73.73389
+Product1,1200,Diners,amy,Stuttgart,Baden-Wurttemberg,Germany,1/16/2009 7:35,48.7666667,9.1833333
+Product1,1200,Amex,Darrah,Den Haag,Zuid-Holland,Netherlands,1/16/2009 7:58,52.0833333,4.3
+Product1,1200,Visa,Ashley,Rancho Cordova              ,CA,United States,1/16/2009 8:28,38.58917,-121.30167
+Product1,1200,Mastercard,Marian,Durban,KwaZulu-Natal,South Africa,1/16/2009 9:54,-29.85,31.0166667
+Product1,1200,Mastercard,Maki,Montgomery                  ,TX,United States,1/16/2009 10:27,30.38806,-95.69611
+Product1,1200,Visa,GAIA,Soro,Vestsjalland,Denmark,1/16/2009 10:58,55.4333333,11.5666667
+Product1,1200,Mastercard,Yoko,Andover                     ,MA,United States,1/16/2009 11:49,42.65833,-71.1375
+Product1,1200,Visa,Luc1nda,London,England,United Kingdom,1/16/2009 12:47,51.52721,0.14559
+Product1,1200,Visa,Michael,Milano,Lombardy,Italy,1/16/2009 13:35,45.4666667,9.2
+Product1,1200,Visa,Orsi,Rayford                     ,TX,United States,1/16/2009 17:41,30.07972,-95.41694
+Product1,1200,Mastercard,Sarah,Coppell                     ,TX,United States,1/16/2009 17:56,32.95444,-97.01472
+Product1,1200,Visa,Elizabeth,Wollongong,New South Wales,Australia,1/16/2009 18:36,-34.4333333,150.8833333
+Product1,1200,Diners,Mary,Alpharetta                  ,GA,United States,1/16/2009 19:13,34.07528,-84.29417
+Product1,1200,Amex,Kristen,Los Gatos                   ,CA,United States,1/16/2009 19:47,37.22667,-121.97361
+Product1,1200,Amex,Campbell,Mushrif,,Kuwait,1/17/2009 1:23,29.2891667,48.05
+Product1,1200,Mastercard,Angel Marie,Den Haag,Zuid-Holland,Netherlands,1/17/2009 1:49,52.0833333,4.3
+Product1,1200,Visa,Rachel,Fresno                      ,CA,United States,1/17/2009 3:22,36.74778,-119.77139
+Product1,1200,Visa,Lisa ,Borja,Bohol,Philippines,1/17/2009 4:03,9.9136111,124.0927778
+Product1,1200,Visa,Fernando,Grosseto,Tuscany,Italy,1/17/2009 6:23,42.7666667,11.1333333
+Product1,1200,Diners,Tatjana and Martin,Birmingham,England,United Kingdom,1/17/2009 6:39,52.4666667,-1.9166667
+Product1,1200,Visa,Georgina,Portland                    ,OR,United States,1/17/2009 7:23,45.52361,-122.675
+Product3,7500,Diners,Michel,Lipari,Sicilia,Italy,1/17/2009 7:56,38.4666667,14.95
+Product3,7500,Diners,natalie,Lipari,Sicilia,Italy,1/17/2009 7:58,38.4666667,14.95
+Product1,1200,Amex,Sylvia,Alexandria                  ,VA,United States,1/17/2009 9:12,38.80472,-77.04722
+Product1,1200,Diners,Kathrin,Abu Dhabi,Abu Zaby,United Arab Emirates,1/17/2009 9:49,24.4666667,54.3666667
+Product1,1200,Mastercard,Nicole,Simcoe,Ontario,Canada,1/17/2009 10:14,42.8333333,-80.3
+Product1,1200,Mastercard,Joachim,Fortaleza,Ceara,Brazil,1/17/2009 11:09,-3.7166667,-38.5
+Product1,1200,Diners,Linda,Den Haag,Zuid-Holland,Netherlands,1/17/2009 12:59,52.0833333,4.3
+Product1,1200,Visa,Simone,San Antonio                 ,TX,United States,1/17/2009 14:02,29.42389,-98.49333
+Product1,1200,Amex,Ruby,Bedford Corners             ,NY,United States,1/17/2009 14:06,41.20417,-73.7275
+Product1,1200,Visa,Cara ,Humble                      ,TX,United States,1/17/2009 15:00,29.99861,-95.26194
+Product1,1200,Visa,Dana,Thurles,Tipperary,Ireland,1/17/2009 15:19,52.6819444,-7.8022222
+Product2,3600,Visa,Aline,Davis                       ,CA,United States,1/17/2009 15:48,38.545,-121.73944
+Product1,1200,Visa,Chad,West Orange                 ,NJ,United States,1/17/2009 16:22,40.79861,-74.23944
+Product1,1200,Amex,BURCAK,Alpharetta                  ,GA,United States,1/17/2009 20:33,34.07528,-84.29417
+Product2,3600,Visa,Michelle,Dubai,Dubayy,United Arab Emirates,1/17/2009 20:46,25.2522222,55.28
+Product1,1200,Visa,Kathryn,Waiau Pa,Auckland,New Zealand,1/17/2009 20:51,-37.1333333,174.75
+Product2,3600,Visa,Hanna Agla,Donauworth,Bayern,Germany,1/18/2009 0:41,48.7,10.8
+Product1,1200,Visa,Ruth,Nashville                   ,AR,United States,1/18/2009 2:16,33.94556,-93.84694
+Product1,1200,Visa,Marina,Nerang,Queensland,Australia,1/18/2009 3:46,-27.9833333,153.3333333
+Product1,1200,Visa,Eleanor,Fairbanks                   ,AK,United States,1/18/2009 4:01,64.83778,-147.71639
+Product1,1200,Diners,jure,Lipari,Sicilia,Italy,1/18/2009 4:32,38.4666667,14.95
+Product1,1200,Visa,Doug,Bishop Auckland,England,United Kingdom,1/18/2009 4:38,54.65,-1.6666667
+Product1,1200,Diners,Roger,Urlingford,Kilkenny,Ireland,1/18/2009 5:15,52.7205556,-7.5825
+Product1,1200,Visa,Anna,Downey                      ,CA,United States,1/18/2009 5:27,33.94,-118.13167
+Product1,1200,Mastercard,Ignacio,Engleside                   ,VA,United States,1/18/2009 6:09,38.80472,-77.04722
+Product1,1200,Mastercard,Janine,Corbin City                 ,NJ,United States,1/18/2009 6:27,39.24167,-74.81556
+Product1,1200,Visa,Sherri,Freienbach,Schwyz,Switzerland,1/18/2009 6:30,47.2,8.75
+Product1,1200,Visa,Shona ,Mornington,Meath,Ireland,1/18/2009 6:46,53.7233333,-6.2825
+Product1,1200,Mastercard,Stanford,Howell                      ,MI,United States,1/18/2009 8:56,42.60722,-83.92944
+Product1,1200,Visa,Richard,Jamestown                   ,RI,United States,1/18/2009 9:42,41.49694,-71.36778
+Product1,1200,Visa,malin,Atlanta,Georgia,United States,1/18/2009 10:42,33.74889,-84.38806
+Product2,3600,Amex,Katie,Gava,Catalonia,Spain,1/18/2009 11:03,41.3,2.0166667
+Product1,1200,Amex,Rachel,Atascadero                  ,CA,United States,1/18/2009 11:17,35.48944,-120.66972
+Product2,3600,Visa,Cheryl,New Malden,England,United Kingdom,1/18/2009 11:34,51.4166667,-0.25
+Product1,1200,Visa,Jodi,Sutton Valence,England,United Kingdom,1/18/2009 11:42,51.2,0.5833333
+Product1,1200,Visa,Shailesh,Joppa,MD,United States,1/18/2009 11:53,39.43361,-76.35806
+Product1,1200,Visa,Conrad,Joppa,MD,United States,1/18/2009 12:04,39.43361,-76.35806
+Product2,3600,Visa,Keri,Issaquah                    ,WA,United States,1/18/2009 12:05,47.53028,-122.03139
+Product2,3600,Mastercard,Kelsi,Utrecht,Utrecht,Netherlands,1/18/2009 12:14,52.0833333,5.1333333
+Product1,1200,Visa,Cassandra,Santry,Dublin,Ireland,1/18/2009 12:32,53.3986111,-6.2597222
+Product1,1200,Mastercard,sandra,Burr Oak                    ,IA,United States,1/18/2009 12:57,43.45889,-91.86528
+Product1,1200,Diners,Isabelle,Shorewood                   ,MN,United States,1/18/2009 13:06,44.90333,-93.56611
+Product1,1200,Visa,Melissa,Chester                     ,CT,United States,1/18/2009 13:25,41.40306,-72.45139
+Product3,7500,Mastercard,Julianne,Navan,Meath,Ireland,1/18/2009 13:26,53.6527778,-6.6813889
+Product1,1200,Amex,Family in,London,England,United Kingdom,1/18/2009 13:36,51.51334,-0.08895
+Product2,3600,Visa,Bev,San Ramon                   ,CA,United States,1/18/2009 13:49,37.78,-121.97694
+Product1,1200,Diners,Nita,Sutton,Dublin,Ireland,1/18/2009 13:59,53.3905556,-6.1216667
+Product1,1200,Visa,Nina,Silver Spring               ,MD,United States,1/18/2009 14:39,38.99056,-77.02639
+Product2,3600,Visa,Therese,Los Angeles                 ,CA,United States,1/18/2009 16:32,34.05222,-118.24278
+Product1,1200,Visa,Celina,North Brunswick             ,NJ,United States,1/18/2009 16:50,40.4497,-74.482
+Product2,3600,Visa,Abdul-L,New York                    ,NY,United States,1/18/2009 17:04,40.71417,-74.00639
+Product2,3600,Visa,heidi,Saint Paul                  ,MN,United States,1/18/2009 17:20,44.94444,-93.09306
+Product1,1200,Mastercard,Nichol Jane,Midland Park                ,NJ,United States,1/18/2009 17:21,40.98917,-74.14111
+Product2,3600,Visa,jiyoung,New York                    ,NY,United States,1/18/2009 17:39,40.71417,-74.00639
+Product1,1200,Amex,Michaela,Mafra,Santa Catarina,Brazil,1/18/2009 17:55,-26.1180556,-49.8016667
+Product1,1200,Mastercard,isabela,Reston                      ,VA,United States,1/18/2009 18:57,38.96861,-77.34139
+Product1,1200,Mastercard,Lisa,Princeton                   ,NJ,United States,1/18/2009 20:16,40.34861,-74.65944
+Product1,1200,Visa,Greg,Washington                  ,DC,United States,1/18/2009 23:17,38.895,-77.03667
+Product1,1200,Amex,Kirsten,Melbourne,Victoria,Australia,1/19/2009 1:52,-37.8166667,144.9666667
+Product1,1200,Mastercard,TG,Zagore,Stara Zagora,Bulgaria,1/19/2009 3:19,42.35,25.6666667
+Product1,1200,Visa,Christy,Setagaya,Tokyo,Japan,1/19/2009 3:25,35.6333333,139.65
+Product1,1200,Diners,brian,Hagen,Lorraine,France,1/19/2009 4:22,49.5,6.1666667
+Product2,3600,Mastercard,don,Cagliari,Sardinia,Italy,1/19/2009 4:23,39.2166667,9.1166667
+Product1,1200,Visa,Alyssa,Brighton,England,United Kingdom,1/19/2009 4:55,50.8333333,-0.15
+Product1,1200,Visa,Allison,Edinburgh,Scotland,United Kingdom,1/19/2009 5:56,55.95,-3.2
+Product1,1200,Visa,Erika,Redruth,England,United Kingdom,1/19/2009 6:50,50.2333333,-5.2333333
+Product1,1200,Amex,Nicola,Bruxelles,Brussels (Bruxelles),Belgium,1/19/2009 6:50,50.8333333,4.3333333
+Product1,1200,Diners,melanie,Santa Barbaraa,Heredia,Costa Rica,1/19/2009 6:52,10.0333333,-84.15
+Product1,1200,Amex,Maki,Miami Beach                 ,FL,United States,1/19/2009 7:49,25.79028,-80.13028
+Product1,1200,Visa,Jeff,Houston                     ,TX,United States,1/19/2009 8:14,29.76306,-95.36306
+Product1,1200,Visa,Pam,Richmond                    ,TX,United States,1/19/2009 8:52,29.58194,-95.76056
+Product1,1200,Amex,amanda,Las Vegas                   ,NV,United States,1/19/2009 9:34,36.175,-115.13639
+Product2,3600,Mastercard,Pavel,London,England,United Kingdom,1/19/2009 10:13,51.51334,-0.08895
+Product1,1200,Mastercard,Maie,Queen Creek                 ,AZ,United States,1/19/2009 10:32,33.24861,-111.63361
+Product1,1200,Mastercard,David,Stavenger,Rogaland,Norway,1/19/2009 10:47,58.9666667,5.75
+Product1,1200,Visa,Bertrand,North Caldwell              ,NJ,United States,1/19/2009 11:05,40.83972,-74.27694
+Product1,1200,Visa,Melissa,Aberdeen,Scotland,United Kingdom,1/19/2009 11:12,57.1333333,-2.1
+Product1,1200,Mastercard,burt,Rathfarnham,Dublin,Ireland,1/19/2009 12:14,53.3005556,-6.2827778
+Product1,1200,Visa,Dania,Munich,Bayern,Germany,1/19/2009 12:38,48.15,11.5833333
+Product1,1200,Visa,Esther,Stocksund,Stockholm,Sweden,1/19/2009 13:15,59.3833333,18.0666667
+Product1,1200,Mastercard,Elisabeth,Wilmington                  ,NC,United States,1/19/2009 14:06,34.22556,-77.945
+Product1,1200,Mastercard,Tracey,Harold's Cross,Dublin,Ireland,1/19/2009 14:26,53.3263889,-6.2947222
+Product1,1200,Mastercard,Laura,Fairfield                   ,IA,United States,1/19/2009 14:53,41.00861,-91.9625
+Product1,1200,Mastercard,Terry,San Antonio                 ,TX,United States,1/19/2009 15:02,29.42389,-98.49333
+Product2,3600,Visa,Julia,Ede,Gelderland,Netherlands,1/19/2009 15:40,52.0333333,5.6666667
+Product1,1200,Mastercard,Frank,Old Greenwich               ,CT,United States,1/19/2009 16:10,41.02278,-73.56528
+Product1,1200,Mastercard,Alexandria,Lebanon                     ,PA,United States,1/19/2009 16:16,40.34083,-76.41167
+Product1,1200,Amex,alison,Mid City West               ,PA,United States,1/19/2009 16:32,39.95222,-75.16417
+Product1,1200,Mastercard,scott,Coconut Grove               ,FL,United States,1/19/2009 16:55,25.71222,-80.25722
+Product1,1200,Visa,Riche Lou,Newton                      ,MA,United States,1/19/2009 17:40,42.33694,-71.20972
+Product1,1200,Amex,cath,Warwick                     ,NY,United States,1/19/2009 18:54,41.25639,-74.36028
+Product1,1200,Diners,Harriet,Fort Oglethorpe             ,GA,United States,1/19/2009 19:07,34.94889,-85.25694
+Product1,1200,Mastercard,Rebecca,Norfolk                     ,VA,United States,1/19/2009 23:06,36.84667,-76.28556
+Product1,1200,Diners,Sarah,Santo Domingo City,Distrito Nacional,Dominican Republic,1/20/2009 2:17,18.4666667,-69.9
+Product1,1200,Visa,Randy,Wigan,England,United Kingdom,1/20/2009 3:11,53.5333333,-2.6166667
+Product1,1200,Visa,Elizabeth,The Grange,Queensland,Australia,1/20/2009 3:51,-24.8166667,152.4166667
+Product1,1200,Visa,Patrick,Birmingham                  ,MI,United States,1/20/2009 5:01,42.54667,-83.21139
+Product3 ,7500,Mastercard,Amanda,Shreveport                  ,LA,United States,1/20/2009 5:24,32.525,-93.75
+Product1,1200,Visa,Jessica,Abbey Town,England,United Kingdom,1/20/2009 5:50,54.8333333,-3.2833333
+Product1,1200,Diners,Ashlee,Oxford,England,United Kingdom,1/20/2009 5:53,51.75,-1.25
+Product1,1200,Mastercard,Andrea ,Shreveport                  ,LA,United States,1/20/2009 6:03,32.525,-93.75
+Product2,3600,Visa,Miye,Downingtown                 ,PA,United States,1/20/2009 7:08,40.00639,-75.70361
+Product1,1200,Mastercard,Aideen and Jonathan,Kecskemet,Bacs-Kiskun,Hungary,1/20/2009 8:08,46.9,19.7833333
+Product1,1200,Amex,Cathy,Brooklyn                    ,NY,United States,1/20/2009 8:10,40.65,-73.95
+Product1,1200,Mastercard,christy,Germantown                  ,TN,United States,1/20/2009 8:16,35.08667,-89.81
+Product1,1200,Mastercard,Sarah,Floyds Knobs                ,IN,United States,1/20/2009 8:23,38.32444,-85.87361
+Product1,1200,Visa,Marie,Winchester                  ,MA,United States,1/20/2009 8:51,42.45222,-71.1375
+Product1,1200,Visa,James,Edmonton,Alberta,Canada,1/20/2009 8:58,53.55,-113.5
+Product2,3600,Visa,Stephen,Calgary,Alberta,Canada,1/20/2009 10:05,51.0833333,-114.0833333
+Product2,3600,Diners,esther,Huddersfield,England,United Kingdom,1/20/2009 10:42,53.65,-1.7833333
+Product1,1200,Mastercard,Debora,Lakeside                    ,CA,United States,1/20/2009 11:58,32.85722,-116.92139
+Product1,1200,Visa,Bea,Chicago                     ,IL,United States,1/20/2009 12:32,41.85,-87.65
+Product1,1200,Mastercard,Anastasia,NYC                         ,NY,United States,1/20/2009 12:34,40.71417,-74.00639
+Product1,1200,Mastercard,Elisabeth,Birkdale,Queensland,Australia,1/20/2009 13:54,-27.4833333,153.2166667
+Product2,3600,Visa,Michael,Norrkoping,Ostergotland,Sweden,1/20/2009 14:48,58.6,16.1833333
+Product1,1200,Mastercard,Attie,Cypress                     ,CA,United States,1/20/2009 14:55,33.81694,-118.03639
+Product1,1200,Visa,Madhu,Centennial                  ,CO,United States,1/20/2009 15:28,39.57917,-104.87639
+Product1,1200,Visa,Vishpala,Margate                     ,FL,United States,1/20/2009 16:32,26.30972,-80.2375
+Product2,3600,Visa,Jessica,Toronto,Ontario,Canada,1/20/2009 17:23,43.6666667,-79.4166667
+Product1,1200,Amex,Rhonda,Atlanta                     ,GA,United States,1/20/2009 19:08,33.74889,-84.38806
+Product1,1200,Visa,Jeannette,Dubai,Dubayy,United Arab Emirates,1/20/2009 20:09,25.2522222,55.28
+Product1,1200,Mastercard,Caroline and Jonathan,Chichester,England,United Kingdom,1/21/2009 2:07,50.8333333,-0.7833333
+Product1,1200,Visa,Kevin ,London,England,United Kingdom,1/21/2009 2:15,51.52721,0.14559
+Product2,3600,Visa,Melissa,Carouge,Geneve,Switzerland,1/21/2009 2:20,46.1833333,6.1333333
+Product1,1200,Visa,Courtney,Suchdol,Prague,Czech Republic,1/21/2009 4:11,50.1333333,14.3833333
+Product1,1200,Visa,Katerina,Firenze,Tuscany,Italy,1/21/2009 4:34,43.7666667,11.25
+Product1,1200,Visa,Tomasz,Klampenborg,Kobenhavn,Denmark,1/21/2009 4:46,55.7666667,12.6
+Product1,1200,Amex,Britlyn ,Norwalk                     ,CT,United States,1/21/2009 5:39,41.1175,-73.40833
+Product1,1200,Amex,Miriane,Norfolk                     ,VA,United States,1/21/2009 6:39,36.84667,-76.28556
+Product1,1200,Visa,andrea,Oostburg                    ,WI,United States,1/21/2009 6:55,43.62278,-87.79444
+Product1,1200,Visa,Niki,Chadds Ford                 ,PA,United States,1/21/2009 7:19,39.87167,-75.59167
+Product1,1200,Mastercard,Beatrice,Wilmington                  ,DE,United States,1/21/2009 7:31,39.74583,-75.54694
+Product1,1200,Visa,Helen,Mechanics Grove             ,PA,United States,1/21/2009 7:59,39.89694,-76.16389
+Product1,1200,Visa,Elaine,Vienna                      ,VA,United States,1/21/2009 9:07,38.90111,-77.26556
+Product1,1200,Mastercard,Julie ,Chelmsford                  ,MA,United States,1/21/2009 10:32,42.59972,-71.36778
+Product1,1200,Visa,Costanza,Saggart,Dublin,Ireland,1/21/2009 11:00,53.2802778,-6.4444444
+Product1,800,Amex,Heloise ,Arlington                   ,VA,United States,1/21/2009 11:28,38.89028,-77.08444
+Product1,1200,Visa,nicole,Oslo,Oslo,Norway,1/21/2009 11:36,59.9166667,10.75
+Product1,1200,Visa,Katrin,Zumikon,Zurich,Switzerland,1/21/2009 11:56,47.3333333,8.6166667
+Product2,3600,Visa,Rosemary,Jacksonville                ,FL,United States,1/21/2009 12:08,30.33194,-81.65583
+Product1,1200,Visa,Novy ,Istanbul,Istanbul,Turkey,1/21/2009 12:38,41.0186111,28.9647222
+Product1,1200,Visa,Sean,Wantagh,NY,United States,1/21/2009 14:06,40.68361,-73.51056
+Product1,1200,Amex,Eric,Ely                         ,NV,United States,1/21/2009 14:15,39.2475,-114.88778
+Product1,1200,Visa,Tricia,Castricum,Noord-Holland,Netherlands,1/21/2009 14:25,52.55,4.6666667
+Product1,1200,Mastercard,Tamara,Klosterneuburg,Lower Austria,Austria,1/21/2009 14:34,48.3,16.3166667
+Product1,1200,Diners,john,New York                    ,NY,United States,1/21/2009 14:55,40.71417,-74.00639
+Product1,1200,Mastercard,KeithMichelle,Houston                     ,TX,United States,1/21/2009 16:57,29.76306,-95.36306
+Product1,1200,Mastercard,Daria,George Town, ,Cayman Isls,1/21/2009 20:02,19.3,-81.3833333
+Product1,1200,Amex,Henrietta,Vancouver,British Columbia,Canada,1/21/2009 20:18,49.25,-123.1333333
+Product1,1200,Mastercard,Ailsa ,Lindenhurst                 ,NY,United States,1/21/2009 20:44,40.68667,-73.37389
+Product1,1200,Visa,Rachel,Taicheng,Guangdong,China,1/21/2009 21:37,22.25,112.7833333
+Product1,1200,Amex,janet,Hon                         ,HI,United States,1/21/2009 23:19,21.30694,-157.85833
+Product1,1200,Visa,Olga,Strasbourg,Alsace,France,1/21/2009 23:41,48.5833333,7.75
+Product1,1200,Visa,Sarah,Plan-les-Ouattes,Geneve,Switzerland,1/21/2009 23:52,46.1666667,6.1166667
+Product1,1200,Visa,Costanza,Beykoz,Istanbul,Turkey,1/22/2009 2:16,41.1438889,29.0905556
+Product2,3600,Mastercard,Parth,Oegstgeest,Zuid-Holland,Netherlands,1/22/2009 3:57,52.1833333,4.4666667
+Product2,3600,Visa,Eman,Penclawdd,Wales,United Kingdom,1/22/2009 5:39,51.6333333,-4.1
+Product1,1200,Visa,Patrick,Baytown                     ,TX,United States,1/22/2009 6:41,29.73528,-94.97722
+Product1,1200,Visa,Kate,Rochester Hills             ,MI,United States,1/22/2009 6:51,42.68056,-83.13389
+Product1,1200,Visa,Yana,North Bay,Ontario,Canada,1/22/2009 7:14,46.3,-79.45
+Product1,1200,Visa,Anja,Ferney-Voltaire,Rhone-Alpes,France,1/22/2009 7:35,46.25,6.1166667
+Product1,1200,Visa,elisabeth,Gonzaga Univ                ,WA,United States,1/22/2009 8:23,47.65889,-117.425
+Product1,1200,Visa,Claire,Trumansburg                 ,NY,United States,1/22/2009 9:00,42.54222,-76.66639
+Product2,3600,Mastercard,Jyoti,Tunbridge Wells,England,United Kingdom,1/22/2009 9:48,51.1333333,0.2833333
+Product1,1200,Visa,michelle,Arklow,Wicklow,Ireland,1/22/2009 10:47,52.7930556,-6.1413889
+Product1,1200,Visa,Maria,Boyceville                  ,WI,United States,1/22/2009 10:59,45.04361,-92.04083
+Product1,1200,Mastercard,Gustavo,Voluntari,Bucuresti,Romania,1/22/2009 11:10,44.4666667,26.1333333
+Product1,1200,Visa,Liann,Monaco, ,Monaco,1/22/2009 12:09,43.7333333,7.4166667
+Product1,1200,Mastercard,Tejal,London,England,United Kingdom,1/22/2009 12:32,51.52721,0.14559
+Product2,3600,Amex,Laura,San Anselmo                 ,CA,United States,1/22/2009 12:37,37.97472,-122.56056
+Product3,7500,Visa,Frank and Christelle,Valley Center               ,CA,United States,1/22/2009 12:45,33.21833,-117.03333
+Product1,1200,Visa,Anna,Paris,Ile-de-France,France,1/22/2009 12:55,48.8666667,2.3333333
+Product1,1200,Visa,Laleh,Aasgaardstrand,Vestfold,Norway,1/22/2009 12:56,59.3488889,10.4675
+Product1,1200,Visa,Hans-Joerg,Belfast,Northern Ireland,United Kingdom,1/22/2009 14:25,54.5833333,-5.9333333
+Product1,1200,Visa,Sara,Perth City,Western Australia,Australia,1/22/2009 14:32,-31.9333333,115.8333333
+Product1,1200,Mastercard,Tara,Killiney,Dublin,Ireland,1/22/2009 15:32,53.2522222,-6.1125
+Product1,1200,Visa,Steven,Houston                     ,TX,United States,1/22/2009 15:35,29.76306,-95.36306
+Product2,3600,Visa,Lisa,Ottawa,Ontario,Canada,1/22/2009 15:59,45.4166667,-75.7
+Product1,1200,Visa,Liza,Dammeron Valley             ,UT,United States,1/22/2009 16:29,37.1306,-113.6492
+Product1,1200,Visa,Ryan,Simpsonville                ,SC,United States,1/22/2009 18:07,34.73694,-82.25444
+Product1,1200,Visa,Lynne,Southlake                   ,TX,United States,1/22/2009 18:44,32.94111,-97.13389
+Product2,3600,Mastercard,leanne,Clyde Hill                  ,WA,United States,1/22/2009 22:16,47.61056,-122.19944
+Product1,1200,Mastercard,Shannon,Buffalo Grove               ,IL,United States,1/22/2009 23:35,41.98111,-89.595
+Product1,1200,Amex,Larry,Naarden,Noord-Holland,Netherlands,1/23/2009 3:30,52.3,5.15
+Product2,3600,Mastercard,Anja Langer,Saint Paul                  ,MN,United States,1/23/2009 3:33,44.94444,-93.09306
+Product1,1200,Mastercard,Sarah,Sandymount,Dublin,Ireland,1/23/2009 4:47,53.335,-6.2113889
+Product1,1200,Visa,Alexia,Blackrock,Dublin,Ireland,1/23/2009 5:11,53.3030556,-6.1830556
+Product1,1200,Visa,Ellen Walton ,Melbourne,Victoria,Australia,1/23/2009 5:14,-37.8166667,144.9666667
+Product1,1200,Amex,Tary,Zug,Zug,Switzerland,1/23/2009 5:52,47.1666667,8.5166667
+Product1,1200,Amex,Joelle,Rowayton                    ,CT,United States,1/23/2009 7:04,41.1175,-73.40833
+Product1,1200,Visa,Elizabeth,Hamilton,Hamilton,Bermuda,1/23/2009 7:13,32.2941667,-64.7838889
+Product2,3600,Amex,Fatisha,Miami                       ,FL,United States,1/23/2009 7:37,25.77389,-80.19389
+Product1,1800,Amex,Karena,Marietta                    ,GA,United States,1/23/2009 7:47,33.9525,-84.55
+Product1,1200,Diners,christina,Chepel,Budapest,Hungary,1/23/2009 8:00,47.4166667,19.0833333
+Product2,3600,Amex,Olympe,Lidingo,Stockholm,Sweden,1/23/2009 9:09,59.3666667,18.1333333
+Product1,1200,Mastercard,Jerome,Madrid,Madrid,Spain,1/23/2009 9:27,40.4,-3.6833333
+Product1,1200,Visa,Ginger,King City,Ontario,Canada,1/23/2009 9:49,43.9333333,-79.5333333
+Product1,1200,Mastercard,Kevin,Hollywood                   ,CA,United States,1/23/2009 10:04,34.09833,-118.32583
+Product1,1200,Visa,Stephanie,Saint Charles               ,IL,United States,1/23/2009 10:45,41.91417,-88.30861
+Product1,1200,Mastercard,Lauren,Poughkeepsie                ,NY,United States,1/23/2009 11:23,41.70028,-73.92139
+Product1,1200,Mastercard,Sandrine,Walnut Creek                ,CA,United States,1/23/2009 11:33,37.90639,-122.06389
+Product1,1200,Diners,Kellie,Staten Island               ,NY,United States,1/23/2009 11:37,40.56472,-74.1275
+Product1,1200,Mastercard,Nola,Den Haag,Zuid-Holland,Netherlands,1/23/2009 12:23,52.0833333,4.3
+Product2,3600,Mastercard,Anke,Avalon,New South Wales,Australia,1/23/2009 12:42,-33.6333333,151.3333333
+Product1,1200,Mastercard,Malahat,Minneapolis                 ,MN,United States,1/23/2009 13:13,44.98,-93.26361
+Product1,1200,Mastercard,Elena,New Rochelle                ,NY,United States,1/23/2009 13:55,40.91139,-73.78278
+Product1,1200,Visa,Madison,Torbay,Auckland,New Zealand,1/23/2009 14:43,-36.7,174.75
+Product1,1200,Mastercard,Surat,Bridgewater                 ,NJ,United States,1/23/2009 14:57,40.5945,-74.6244
+Product1,1200,Mastercard,T,Brooklyn                    ,NY,United States,1/23/2009 15:33,40.65,-73.95
+Product1,1200,Visa,Ronja,Manhattan                   ,NY,United States,1/23/2009 15:38,40.71417,-74.00639
+Product2,3600,Amex,Christophe,Temecula                    ,CA,United States,1/23/2009 16:30,33.49361,-117.1475
+Product1,1200,Visa,Ann,Brisbane,Queensland,Australia,1/23/2009 21:35,-27.5,153.0166667
+Product1,1200,Visa,Joanne,Oak Park                    ,MI,United States,1/23/2009 21:41,42.45944,-83.18278
+Product1,1200,Mastercard,Diana,Kuala Lumpur,Kuala Lumpur,Malaysia,1/23/2009 22:19,3.1666667,101.7
+Product1,1200,Visa,Jupiterlina Elika,Rome,Lazio,Italy,1/24/2009 1:22,41.9,12.4833333
+Product1,1200,Visa,Michelle,Lyndoch,South Australia,Australia,1/24/2009 3:25,-34.6166667,138.8833333
+Product1,1200,Visa,chris,Kjobenhavn,Staden Kobenhavn,Denmark,1/24/2009 3:36,55.6666667,12.5833333
+Product1,1200,Visa,breon,Leighton Buzzard,England,United Kingdom,1/24/2009 4:01,51.9166667,-0.65
+Product1,1200,Mastercard,nihan,Roanoke                     ,VA,United States,1/24/2009 7:14,37.20556,-80.03778
+Product2,3600,Visa,Kathryn,Kirriemuir,Scotland,United Kingdom,1/24/2009 7:18,56.6666667,-3
+Product1,1200,Mastercard,corina,Neustift am Walde,Vienna,Austria,1/24/2009 8:21,48.25,16.3
+Product1,1200,Mastercard,manon,Neustift am Walde,Vienna,Austria,1/24/2009 8:25,48.25,16.3
+Product1,1200,Visa,Elizabeth,Cos Cob                     ,CT,United States,1/24/2009 8:45,41.03333,-73.6
+Product1,1200,Mastercard,Heather,Baluan,General Santos,Philippines,1/24/2009 8:51,6.1036111,125.2163889
+Product2,3600,Visa,Barbara,Kirriemuir,Scotland,United Kingdom,1/24/2009 9:01,56.6666667,-3
+Product1,1200,Visa,Nicole,Neuchatel,Neuchatel,Switzerland,1/24/2009 9:30,47,6.9666667
+Product1,1200,Visa,DD,York,England,United Kingdom,1/24/2009 10:23,53.9666667,-1.0833333
+Product1,1200,Visa,sorcha,Porto Alegre,Rio Grande do Sul,Brazil,1/24/2009 10:26,-30.0333333,-51.2
+Product1,1200,Visa,Kenneth,Arlington                   ,VA,United States,1/24/2009 10:38,38.89028,-77.08444
+Product1,1200,Visa,alan,Norcross                    ,GA,United States,1/24/2009 11:05,33.94111,-84.21361
+Product1,1200,Visa,Audrey,Bruxelles,Brussels (Bruxelles),Belgium,1/24/2009 11:54,50.8333333,4.3333333
+Product1,1200,Visa,T,El Escorial,Madrid,Spain,1/24/2009 12:00,40.5833333,-4.1166667
+Product1,1200,Visa,Saeko ,Warwick                     ,NY,United States,1/24/2009 12:43,41.25639,-74.36028
+Product1,1200,Visa,sorcha,Cartierville,Quebec,Canada,1/24/2009 12:56,45.5333333,-73.7166667
+Product1,1200,Visa,Renee,Chaska                      ,MN,United States,1/24/2009 13:35,44.78944,-93.60194
+Product1,1200,Mastercard,Cathy,Kidderminster,England,United Kingdom,1/24/2009 13:38,52.3833333,-2.25
+Product2,3600,Mastercard,Meredith,Kloten,Zurich,Switzerland,1/24/2009 13:54,47.45,8.5833333
+Product1,1200,Visa,Tracey,Saint Catharines,Ontario,Canada,1/24/2009 17:06,43.1666667,-79.2333333
+Product2,3600,Visa,Charlotte,Sterling                    ,VA,United States,1/24/2009 17:18,39.00611,-77.42889
+Product1,1200,Visa,Helen,Aloma                       ,FL,United States,1/24/2009 18:02,28.60056,-81.30667
+Product1,1200,Visa,Ruangrote,Melbourne,Victoria,Australia,1/24/2009 18:30,-37.8166667,144.9666667
+Product1,1200,Visa,Katrine,North Tustin                ,CA,United States,1/24/2009 18:43,33.76444,-117.79306
+Product1,1200,Visa,jacqueline,North Vancouver,British Columbia,Canada,1/24/2009 20:58,49.3166667,-123.0666667
+Product1,1200,Visa,Olivia,Wheaton                     ,IL,United States,1/24/2009 21:26,41.86611,-88.10694
+Product1,1200,Visa,elaine,Phuket,Phuket,Thailand,1/24/2009 23:21,7.8833333,98.4
+Product1,1200,Visa,Hilde ,Princeville                 ,HI,United States,1/25/2009 0:09,22.22361,-159.48528
+Product3,7500,Visa,Michael,Pietermaritzburg,KwaZulu-Natal,South Africa,1/25/2009 1:53,-29.6166667,30.3833333
+Product2,3600,Visa,Family,Dubai,Dubayy,United Arab Emirates,1/25/2009 2:46,25.2522222,55.28
+Product1,1200,Mastercard,Hilde,Groningen,Groningen,Netherlands,1/25/2009 4:34,53.2166667,6.55
+Product1,1200,Amex,pamela,Ayacucho,Buenos Aires,Argentina,1/25/2009 5:57,-37.15,-58.4833333
+Product1,1200,Diners,Howard,Worcester,England,United Kingdom,1/25/2009 7:29,52.2,-2.2
+Product2,3600,Visa,Astrid,Oslo,Oslo,Norway,1/25/2009 8:16,59.9166667,10.75
+Product1,1200,Visa,L,Alcona,Ontario,Canada,1/25/2009 8:32,50.0666667,-91.75
+Product1,1200,Mastercard,Malinda,Oxford,England,United Kingdom,1/25/2009 8:48,51.75,-1.25
+Product1,1200,Mastercard,Shane,Zurich,Zurich,Switzerland,1/25/2009 8:50,47.3666667,8.55
+Product1,1200,Amex,Corinne,Anthem                      ,AZ,United States,1/25/2009 8:54,33.86722,-112.14611
+Product1,1200,Visa,erin,London,England,United Kingdom,1/25/2009 9:27,51.52721,0.14559
+Product1,1200,Visa,Zaneta ,Rochester                   ,MI,United States,1/25/2009 9:36,42.68056,-83.13389
+Product1,1200,Mastercard,Pilar,Florence,Tuscany,Italy,1/25/2009 10:32,43.7666667,11.25
+Product1,1200,Amex,kathleen kane,Jamaica Plain               ,MA,United States,1/25/2009 10:34,42.30972,-71.12083
+Product1,1200,Diners,Phillip,San Antonio                 ,TX,United States,1/25/2009 10:50,29.42389,-98.49333
+Product3,7500,Mastercard,Anita,Fresno                      ,TX,United States,1/25/2009 11:35,29.53861,-95.44722
+Product2,3600,Mastercard,Gloria Gail ,WalcProduct3ee,Tyrol,Austria,1/25/2009 11:52,47.65,12.3166667
+Product2,3600,Visa,Charlene ,Sebastopol                  ,CA,United States,1/25/2009 12:35,38.40222,-122.82278
+Product1,1200,Amex,ann,Boca Raton                  ,FL,United States,1/25/2009 12:55,26.35833,-80.08333
+Product1,1200,Visa,Lindsey,Kennett Square              ,PA,United States,1/25/2009 12:59,39.84667,-75.71194
+Product2,3600,Visa,Scott,Lausanne,Vaud,Switzerland,1/25/2009 13:50,46.5333333,6.6666667
+Product1,1200,Visa,Maureen,Statesville                 ,NC,United States,1/25/2009 14:40,35.7825,-80.8875
+Product2,3600,Visa,marie-louise,Sitka                       ,AK,United States,1/25/2009 15:18,57.05306,-135.33
+Product1,1200,Diners,Jennifer,Vancouver,British Columbia,Canada,1/25/2009 16:08,49.25,-123.1333333
+Product3,7500,Visa,scott,Rogers                      ,AR,United States,1/25/2009 16:11,36.33194,-94.11833
+Product1,1200,Amex,Mareike,Cumming                     ,GA,United States,1/25/2009 16:17,34.20722,-84.14028
+Product1,1200,Visa,olla,Westminster                 ,CO,United States,1/25/2009 17:48,39.83667,-105.03667
+Product1,1200,Visa,David,Kapaa                       ,HI,United States,1/25/2009 17:55,22.07833,-159.32194
+Product2,3600,Visa,carol,Ann Arbor                   ,MI,United States,1/25/2009 17:58,42.27083,-83.72639
+Product1,1200,Visa,Marion,Umea,Vasterbotten,Sweden,1/25/2009 18:21,63.8333333,20.25
+Product1,1200,Visa,Maria Macarena,Billings                    ,MT,United States,1/25/2009 18:33,45.78333,-108.5
+Product1,1200,Mastercard,Sarah,Manteno                     ,IL,United States,1/25/2009 18:33,41.25056,-87.83139
+Product1,1200,Mastercard,Lesa,Vespasiano,Minas Gerais,Brazil,1/25/2009 19:44,-19.6666667,-43.9166667
+Product1,1200,Visa,Kim,Seattle                     ,WA,United States,1/25/2009 19:59,47.60639,-122.33083
+Product1,1200,Visa,Brian,Croton On Hudson            ,NY,United States,1/25/2009 20:15,41.2219,-73.887
+Product1,1200,Visa,Fatima,Rogers                      ,AR,United States,1/25/2009 20:44,36.33194,-94.11833
+Product1,1200,Mastercard,Petra,San Francisco               ,CA,United States,1/25/2009 21:49,37.775,-122.41833
+Product1,1200,Visa,beatrice,Churra,Murcia,Spain,1/26/2009 1:14,38.0166667,-1.1333333
+Product2,3600,Visa,Geraldine,Brussels,Brussels (Bruxelles),Belgium,1/26/2009 1:44,50.8333333,4.3333333
+Product1,1200,Mastercard,Wendy,Lake Mahopac                ,NY,United States,1/26/2009 3:43,41.37222,-73.73389
+Product2,3600,Mastercard,Jane,Biot,Provence-Alpes-Cote d'Azur,France,1/26/2009 3:49,43.6333333,7.1
+Product1,1200,Visa,Jodie ,Great Falls,Virginia,United States,1/26/2009 4:30,38.99806,-77.28861
+Product1,1200,Visa,Gerardo,London,England,United Kingdom,1/26/2009 4:53,51.52721,0.14559
+Product2,3600,Amex,Tulin,Cranberry Twp               ,PA,United States,1/26/2009 5:38,40.69472,-80.13111
+Product1,1200,Visa,prof,Gladwyne                    ,PA,United States,1/26/2009 6:25,40.04056,-75.27944
+Product1,1200,Visa,manuela,Massagno,Ticino,Switzerland,1/26/2009 6:37,46.0166667,8.95
+Product1,1200,Visa,Christian,Alexandria                  ,VA,United States,1/26/2009 6:38,38.80472,-77.04722
+Product1,1200,Visa,Tori,Minneapolis                 ,MN,United States,1/26/2009 7:11,44.98,-93.26361
+Product1,1200,Amex,Elizabeth ,Bluffton                    ,SC,United States,1/26/2009 8:00,32.23694,-80.86056
+Product1,1200,Visa,Paula,Larchmont                   ,NY,United States,1/26/2009 8:45,40.92778,-73.75222
+Product1,1200,Diners,Miss,London,England,United Kingdom,1/26/2009 8:58,51.52721,0.14559
+Product1,1200,Visa,Eleanor,Vancouver,British Columbia,Canada,1/26/2009 10:24,49.25,-123.1333333
+Product1,1200,Visa,Lolarae,Calgary,Alberta,Canada,1/26/2009 10:26,51.0833333,-114.0833333
+Product1,1200,Mastercard,smith,Lahti,Etela-Suomen Laani,Finland,1/26/2009 11:19,60.9666667,25.6666667
+Product1,1200,Visa,Judy,Dun Laoghaire,Dublin,Ireland,1/26/2009 11:36,53.2925,-6.1286111
+Product1,1200,Mastercard,Gabriella,Austin                      ,TX,United States,1/26/2009 11:38,30.26694,-97.74278
+Product1,1250,Mastercard,verena,Queen Creek                 ,AZ,United States,1/26/2009 12:05,33.24861,-111.63361
+Product2,3600,Mastercard,Tom,Killeen                     ,TX,United States,1/26/2009 12:26,31.11694,-97.7275
+Product1,1200,Mastercard,Lesleigh,Baden,Aargau,Switzerland,1/26/2009 13:41,47.4666667,8.3
+Product1,1200,Mastercard,Veronique,Fresno                      ,TX,United States,1/26/2009 14:02,29.53861,-95.44722
+Product1,1200,Visa,Heidi,St Augustine                ,FL,United States,1/26/2009 14:37,29.89444,-81.31472
+Product1,1200,Visa,Nicola ,Sneem,Kerry,Ireland,1/26/2009 14:43,51.8333333,-9.9
+Product1,1200,Visa,Megan,Huntersville                ,NC,United States,1/26/2009 15:16,35.41056,-80.84306
+Product1,1200,Visa,Patricia,Allen                       ,TX,United States,1/26/2009 15:42,33.10306,-96.67028
+Product1,1200,Visa,Oscar,Chamonix-Mont-Blanc,Rhone-Alpes,France,1/26/2009 16:47,45.9166667,6.8666667
+Product1,1200,Visa,Jo,Pembroke Pines              ,FL,United States,1/26/2009 18:38,26.01083,-80.14972
+Product1,1200,Mastercard,John,Griffith,New South Wales,Australia,1/26/2009 20:18,-34.2833333,146.0333333
+Product1,1200,Mastercard,Alicia,Lincoln                     ,NE,United States,1/26/2009 20:47,40.8,-96.66667
+Product1,1200,Amex,Anjan,Tokyo,Tokyo,Japan,1/26/2009 22:45,35.685,139.7513889
+Product2,3600,Amex,ron ,Tsaritsyno,Moscow City,Russia,1/26/2009 23:28,55.6283333,37.6608333
+Product1,1200,Diners,Heidi,MT Pleasant                 ,TX,United States,1/27/2009 2:26,33.15667,-94.96806
+Product1,1200,Visa,Glenn,Perth,Scotland,United Kingdom,1/27/2009 2:32,56.4,-3.4333333
+Product1,1200,Visa,Sarah,Ornex,Rhone-Alpes,France,1/27/2009 2:35,46.2833333,6.1
+Product1,1200,Visa,Elyse,Bandon,Cork,Ireland,1/27/2009 2:38,51.7469444,-8.7425
+Product1,1200,Visa,Rosemary,Cobham,England,United Kingdom,1/27/2009 2:57,51.3833333,0.4
+Product1,1200,Mastercard,Astrid,Canterbury,England,United Kingdom,1/27/2009 3:19,51.2666667,1.0833333
+Product2,3600,Visa,minjeong,Bern,Bern,Switzerland,1/27/2009 3:45,46.9166667,7.4666667
+Product1,1200,Amex,R,Danderyd,Stockholm,Sweden,1/27/2009 3:55,59.4166667,18.0166667
+Product1,1200,Visa,anissa,Slough,England,United Kingdom,1/27/2009 5:10,51.5,-0.5833333
+Product1,1200,Mastercard,Nathalie,Haymarket                   ,VA,United States,1/27/2009 6:20,38.81194,-77.63667
+Product1,1200,Mastercard,Michele,Buffalo                     ,NY,United States,1/27/2009 6:26,42.88639,-78.87861
+Product1,1200,Visa,Helena,Fremont                     ,CA,United States,1/27/2009 8:11,37.54833,-121.9875
+Product1,1200,Visa,Jan,Barcelona,Catalonia,Spain,1/27/2009 9:01,41.3833333,2.1833333
+Product1,1200,Mastercard,DOREEN,Madrid,Madrid,Spain,1/27/2009 11:02,40.4,-3.6833333
+Product2,3600,Amex,Michael,Los Angeles                 ,CA,United States,1/27/2009 11:18,34.05222,-118.24278
+Product1,1200,Mastercard,Cleo,Pacific Palisades           ,CA,United States,1/27/2009 11:21,34.04806,-118.52556
+Product1,1200,Visa,Jackie,Waterford,Waterford,Ireland,1/27/2009 12:02,52.2583333,-7.1119444
+Product1,1200,Visa,Caterina,Amsterdam,Noord-Holland,Netherlands,1/27/2009 12:47,52.35,4.9166667
+Product1,1200,Mastercard,Melissa,Geneve,Geneve,Switzerland,1/27/2009 13:08,46.2,6.1666667
+Product2,3600,Mastercard,Jean,Arlington                   ,VA,United States,1/27/2009 14:42,38.89028,-77.08444
+Product1,1200,Visa,Aniko,Random Lake                 ,WI,United States,1/27/2009 15:09,43.55222,-87.96167
+Product1,1200,Visa,Katherine,Corrales                    ,NM,United States,1/27/2009 15:28,35.23778,-106.60611
+Product1,1200,Visa,jason,Altadena                    ,CA,United States,1/27/2009 16:50,34.18972,-118.13028
+Product1,1200,Visa,Emily,Killarney,New Providence,The Bahamas,1/27/2009 18:06,25.05,-77.4166667
+Product1,1200,Mastercard,Melinda,Buffalo Grove               ,IL,United States,1/27/2009 18:35,41.98111,-89.595
+Product1,1200,Visa,VERBENA,Basel,Basel-Town,Switzerland,1/28/2009 0:22,47.5666667,7.6
+Product1,1200,Mastercard,Natalie ,Bryceville                  ,FL,United States,1/28/2009 0:40,30.38444,-81.93889
+Product1,1200,Diners,Adam,Besancon,Franche-Comte,France,1/28/2009 1:28,47.25,6.0333333
+Product1,1200,Mastercard,Kate,Stockholm,Stockholm,Sweden,1/28/2009 1:38,59.3333333,18.05
+Product1,1200,Visa,Lisa,Anse Comeau,Quebec,Canada,1/28/2009 3:07,49.2166667,-68.15
+Product1,1200,Diners,Selene,Oslo,Oslo,Norway,1/28/2009 4:35,59.9166667,10.75
+Product2,3600,Visa,Christiane,Black River,Black River,Mauritius,1/28/2009 5:36,-20.3602778,57.3661111
+Product1,1200,Visa,Kevin,Berkeswell,England,United Kingdom,1/28/2009 7:07,52.4,-1.6333333
+Product1,1200,Visa,Jenevieve,Guelph,Ontario,Canada,1/28/2009 7:26,43.55,-80.25
+Product1,1200,Visa,cari,Dryden                      ,VA,United States,1/28/2009 7:31,36.7775,-82.94167
+Product1,1200,Visa,Ina,Fayetteville                ,NC,United States,1/28/2009 7:49,35.0525,-78.87861
+Product1,1200,Visa,kemp,Brentwood                   ,TN,United States,1/28/2009 8:50,36.03306,-86.78278
+Product1,1200,Visa,Chevonne,Athina,Attiki,Greece,1/28/2009 10:37,37.9833333,23.7333333
+Product1,1200,Visa,christal,Morrison                    ,CO,United States,1/28/2009 11:19,39.65361,-105.19056
+Product1,1200,Diners,Evelyn,Grossbodungen,Thuringia,Germany,1/28/2009 11:36,51.4666667,10.5
+Product1,1200,Diners,lilia ,Brooklyn                    ,NY,United States,1/28/2009 12:31,40.65,-73.95
+Product2,3600,Mastercard,Kelly ,Vancouver,British Columbia,Canada,1/28/2009 12:54,49.25,-123.1333333
+Product2,3600,Amex,Elizabeth,Okotoks,Alberta,Canada,1/28/2009 13:03,50.7166667,-113.9666667
+Product1,1200,Amex,BALA,Accokeek                    ,MD,United States,1/28/2009 13:07,38.6675,-77.02861
+Product1,1200,Visa,Catherine,Hghlnds Ranch               ,CO,United States,1/28/2009 13:30,39.61333,-105.01611
+Product1,1200,Visa,giovanna,Pruszkow,Mazowieckie,Poland,1/28/2009 14:09,52.1666667,20.8333333
+Product1,1200,Mastercard,Zoe,Coventry,England,United Kingdom,1/28/2009 16:17,52.4166667,-1.55
+Product1,"13,000",Visa,sandhya,Centennial                  ,CO,United States,1/28/2009 18:00,39.57917,-104.87639
+Product1,1200,Visa,Whitney,Falmouth                    ,VA,United States,1/28/2009 20:44,38.32389,-77.46861
+Product1,1200,Visa,Michele ,Austin                      ,TX,United States,1/28/2009 20:59,30.26694,-97.74278
+Product1,1200,Visa,Hale,Hawera,Taranaki,New Zealand,1/28/2009 22:02,-39.5916667,174.2833333
+Product1,1200,Diners,Suejean,Gingins,Vaud,Switzerland,1/29/2009 1:01,46.4,6.1833333
+Product1,1200,Visa,George,Nakskov,Storstrom,Denmark,1/29/2009 2:48,54.8333333,11.15
+Product1,1200,Amex,Kimberly,Herndon                     ,VA,United States,1/29/2009 5:06,38.96944,-77.38639
+Product1,1200,Diners,Vanessa,Ithaca                      ,NY,United States,1/29/2009 5:30,42.44056,-76.49694
+Product1,1200,Visa,Mrs,Sunnyvale                   ,CA,United States,1/29/2009 5:43,37.36889,-122.03528
+Product1,1200,Mastercard,Carmela,Hannover,Lower Saxony,Germany,1/29/2009 6:49,52.3666667,9.7166667
+Product1,1200,Amex,Karen and Andrew,Munchen,Bayern,Germany,1/29/2009 7:40,49.55,11.5833333
+Product1,1200,Mastercard,Sarah,Ridgefield                  ,CT,United States,1/29/2009 8:13,41.28139,-73.49861
+Product2,3600,Visa,Kerry,Prague,Central Bohemia,Czech Republic,1/29/2009 8:27,50.0833333,14.4666667
+Product1,1200,Visa,cheryl,Beverly Hills               ,CA,United States,1/29/2009 10:07,34.07361,-118.39944
+Product2,3600,Mastercard,Jacqui,Scottsdale                  ,AZ,United States,1/29/2009 10:09,33.50917,-111.89833
+Product1,1200,Visa,samuel,Saddle Brook                ,NJ,United States,1/29/2009 10:38,40.89889,-74.09306
+Product1,1200,Amex,Alison,Issaquah                    ,WA,United States,1/29/2009 12:10,47.61056,-122.19944
+Product1,1200,Mastercard,Jessica,Chiefland                   ,FL,United States,1/29/2009 12:16,29.47472,-82.86
+Product1,1200,Mastercard,philippa katherine,Cabinteely,Dublin,Ireland,1/29/2009 12:27,53.2594444,-6.1447222
+Product1,1200,Mastercard,Alva and Martin,Great Falls                 ,VA,United States,1/29/2009 12:28,38.99806,-77.28861
+Product1,1200,Visa,Lilly,Castleknock,Dublin,Ireland,1/29/2009 12:46,53.3786111,-6.3922222
+Product1,1200,Visa,Vanessa,Arc-et-Senans,Franche-Comte,France,1/29/2009 12:53,47.0333333,5.7666667
+Product1,1200,Diners,Hale,Morrison                    ,CO,United States,1/29/2009 13:25,39.65361,-105.19056
+Product1,1200,Visa,Tom,Salt Lake City              ,UT,United States,1/29/2009 13:27,40.76083,-111.89028
+Product1,1200,Visa,John ,San Jose                    ,CA,United States,1/29/2009 13:41,37.33944,-121.89389
+Product1,1200,Visa,Mary ,Auckland,Auckland,New Zealand,1/29/2009 15:03,-36.8666667,174.7666667
+Product1,1200,Visa,KERRY,Sunnyvale                   ,CA,United States,1/29/2009 15:08,37.36889,-122.03528
+Product1,1200,Mastercard,Nita and Trebor,Washington Township         ,OH,United States,1/29/2009 15:20,39.75889,-84.19167
+Product1,1200,Diners,Kim,Paris,Ile-de-France,France,1/29/2009 16:07,48.8666667,2.3333333
+Product1,1200,Visa,Brenda,Rock Hill                   ,SC,United States,1/29/2009 16:52,34.92472,-81.02528
+Product1,1200,Amex,alix,Tenafly                     ,NJ,United States,1/29/2009 17:13,40.92528,-73.96333
+Product1,1200,Visa,Alessandra,Vancouver,British Columbia,Canada,1/29/2009 21:40,49.25,-123.1333333
+Product1,1200,Visa,Matt,Leicester,England,United Kingdom,1/29/2009 23:48,52.6333333,-1.1333333
+Product1,1200,Mastercard,Tarja,Villars,Vaud,Switzerland,1/30/2009 1:09,46.3,7.05
+Product1,1200,Visa,Hurst,Chandler                    ,AZ,United States,1/30/2009 4:48,33.30611,-111.84056
+Product1,1200,Visa,Christine,Antwerpen,Antwerpen,Belgium,1/30/2009 5:13,51.2166667,4.4166667
+Product1,1200,Visa,Simone,Kilcornan,Limerick,Ireland,1/30/2009 5:20,52.6166667,-8.8833333
+Product1,1200,Visa,janet,Blarney,Cork,Ireland,1/30/2009 6:17,51.9333333,-8.5666667
+Product2,3600,Mastercard,Louise,Balgach,St Gallen,Switzerland,1/30/2009 6:18,47.4166667,9.6
+Product1,1200,Mastercard,Nicole,Fayetteville                ,NC,United States,1/30/2009 6:48,35.0525,-78.87861
+Product1,250,Visa,Tabatha,Altadena                    ,CA,United States,1/30/2009 7:42,34.18972,-118.13028
+Product1,1200,Mastercard,james,Nashville                   ,TN,United States,1/30/2009 9:00,36.16583,-86.78444
+Product1,1200,Mastercard,lorna,Castle Rock                 ,CO,United States,1/30/2009 10:31,39.37222,-104.85556
+Product1,1200,Mastercard,Whitney,Dumbleton,England,United Kingdom,1/30/2009 11:56,52.0166667,-1.9666667
+Product1,1200,Mastercard,Abikay,Fullerton                   ,CA,United States,1/30/2009 12:18,33.87028,-117.92444
+Product1,1200,Visa,Patrick,Lexington                   ,MA,United States,1/30/2009 13:13,42.44722,-71.225
+Product1,1200,Visa,danielle,Geneve,Geneve,Switzerland,1/30/2009 14:36,46.2,6.1666667
+Product1,1200,Mastercard,Ana,Hong Kong, ,Hong Kong,1/30/2009 17:09,22.2833333,114.15
+Product1,1200,Visa,nina,Warwick,Queensland,Australia,1/30/2009 17:33,-28.2333333,152.0166667
+Product1,1200,Diners,Heather,Ooltewah                    ,TN,United States,1/30/2009 19:12,35.075,-85.06222
+Product1,1200,Mastercard,Natasha,Pasadena                    ,CA,United States,1/30/2009 20:27,34.14778,-118.14361
+Product1,1200,Visa,Renee,Edinburg                    ,TX,United States,1/30/2009 20:36,26.30139,-98.16306
+Product2,3600,Mastercard,Tanya,Carcross,Yukon Territory,Canada,1/30/2009 20:58,60.1833333,-134.7166667
+Product2,3600,Visa,Stephanie,Hilversum,Noord-Holland,Netherlands,1/30/2009 23:49,52.2333333,5.1833333
+Product1,1200,Visa,Nacole,Milan,Lombardy,Italy,1/31/2009 1:59,45.4666667,9.2
+Product1,1200,Mastercard,Detlev,Taby,Stockholm,Sweden,1/31/2009 4:50,59.5,18.05
+Product2,3600,Mastercard,Hanne,Phoenix                     ,MD,United States,1/31/2009 5:39,39.51639,-76.61639
+Product1,1200,Diners,Scott ,Sag Harbor                  ,NY,United States,1/31/2009 6:14,40.99778,-72.29306
+Product1,1200,Amex,Sean,London,England,United Kingdom,1/31/2009 7:13,51.52721,0.14559
+Product1,1200,Visa,Monica ,Weston                      ,CT,United States,1/31/2009 7:22,41.20083,-73.38111
+Product1,1200,Mastercard,Laura,Coconut Grove               ,FL,United States,1/31/2009 8:56,25.71222,-80.25722
+Product1,1200,Visa,ciara and mike,London,England,United Kingdom,1/31/2009 9:00,51.51334,-0.08895
+Product1,1200,Visa,Nanci,Reading,England,United Kingdom,1/31/2009 9:12,51.4333333,-1
+Product1,1200,Visa,Diane,Djurgarden,Stockholm,Sweden,1/31/2009 11:03,59.3166667,18.1166667
+Product2,3600,Mastercard,Ulrika,Scottsdale                  ,AZ,United States,1/31/2009 11:14,33.50917,-111.89833
+Product1,1200,Visa,Joern,Waterford,Ontario,Canada,1/31/2009 13:26,42.9333333,-80.2833333
+Product1,1200,Visa,Lisa,Ringgold                    ,GA,United States,1/31/2009 15:25,34.91583,-85.10917
+Product1,1200,Visa,matthew,Cincinnati                  ,OH,United States,1/31/2009 18:12,39.16194,-84.45694
+Product1,1200,Visa,Sven,Issaquah                    ,WA,United States,1/31/2009 21:50,47.53028,-122.03139
+Product1,1200,Diners,Dawn,Vaucluse,New South Wales,Australia,1/31/2009 23:09,-33.8666667,151.2833333

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Export-DataTable-to-Excel", "Export-DataTable-to-Excel\Export-DataTable-to-Excel.csproj", "{269C2F50-C9BE-4D4E-9C48-DDB710C7E4B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269C2F50-C9BE-4D4E-9C48-DDB710C7E4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269C2F50-C9BE-4D4E-9C48-DDB710C7E4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269C2F50-C9BE-4D4E-9C48-DDB710C7E4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269C2F50-C9BE-4D4E-9C48-DDB710C7E4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C050E1-C7A5-493C-B1C1-15D8F57FA920}
+	EndGlobalSection
+EndGlobal
