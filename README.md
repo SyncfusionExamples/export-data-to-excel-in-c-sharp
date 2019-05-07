@@ -1,5 +1,7 @@
 # Export Data to Excel in C#
-Syncfusion Excel (XlsIO) library is a .NET Excel library that allows the user to export data to Excel in C# and VB.NET from various data sources like data tables, arrays, collections of objects, databases, CSV/TSV, and Microsoft Grid controls in a very simple and easy way. Exporting data to Excel helps in visualizing the data in a more understandable fashion. This feature helps to generate financial reports, banking statements, and invoices, while also allowing for filtering large data, validating data, formatting data, and more.
+<a href="https://www.syncfusion.com/excel-framework/net"><strong>Syncfusion Excel (XlsIO) library</strong></a> is a .NET Excel library that allows the user to export data to Excel in C# and VB.NET from various data sources like data tables, arrays, collections of objects, databases, CSV/TSV, and Microsoft Grid controls in a very simple and easy way. Exporting data to Excel helps in visualizing the data in a more understandable fashion. This feature helps to generate financial reports, banking statements, and invoices, while also allowing for filtering large data, validating data, formatting data, and more.
+
+You can refer the <a href="https://help.syncfusion.com/file-formats/xlsio/working-with-data?_ga=2.120276040.1381167263.1557135100-214292665.1551328372#importing-data-to-worksheets">documention</a> to know more in detail.
 
 Essential XlsIO provides the following ways to export data to Excel:
 
@@ -392,3 +394,5 @@ using (ExcelEngine excelEngine = new ExcelEngine())
 <img class="aligncenter wp-image-38684 size-full" src="https://blog.syncfusion.com/wp-content/uploads/2019/04/CSV-to-Excel_Output.png" sizes="(max-width: 1002px) 100vw, 1002px" srcset="https://blog.syncfusion.com/wp-content/uploads/2019/04/CSV-to-Excel_Output.png 1002w, https://blog.syncfusion.com/wp-content/uploads/2019/04/CSV-to-Excel_Output-300x156.png 300w, https://blog.syncfusion.com/wp-content/uploads/2019/04/CSV-to-Excel_Output-768x399.png 768w" alt="Export CSV to Excel in c#" width="1002" height="521" />
 
 <em>Output of CSV converted to Excel</em>
+
+Apart from this, <a href="https://www.syncfusion.com/excel-framework/net">Syncfusion Excel (XlsIO) library</a> provides various other features such as, charts, pivot tables, tables, cell formatting, conditional formatting, data validation, encryption and decryption, auto-shapes, Excel to PDF, Excel to Image, Excel to HTML and more. You can refer to our <a href="https://ej2.syncfusion.com/aspnetcore/XlsIO/Create#/material">online demo samples</a> to know more about all the features. 
