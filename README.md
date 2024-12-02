@@ -1,9 +1,9 @@
 # Export Data to Excel in C#
-<a href="https://www.syncfusion.com/excel-framework/net"><strong>Syncfusion Excel (XlsIO) library</strong></a> is a .NET Excel library that allows the user to export data to Excel in C# and VB.NET from various data sources like data tables, arrays, collections of objects, databases, CSV/TSV, and Microsoft Grid controls in a very simple and easy way. Exporting data to Excel helps in visualizing the data in a more understandable fashion. This feature helps to generate financial reports, banking statements, and invoices, while also allowing for filtering large data, validating data, formatting data, and more.
+<a href="https://www.syncfusion.com/excel-framework/net"><strong>Syncfusion&reg; Excel (XlsIO) library</strong></a> is a .NET Excel library that allows the user to export data to Excel in C# and VB.NET from various data sources like data tables, arrays, collections of objects, databases, CSV/TSV, and Microsoft Grid controls in a very simple and easy way. Exporting data to Excel helps in visualizing the data in a more understandable fashion. This feature helps to generate financial reports, banking statements, and invoices, while also allowing for filtering large data, validating data, formatting data, and more.
 
 You can refer the <a href="https://help.syncfusion.com/file-formats/xlsio/working-with-data?_ga=2.120276040.1381167263.1557135100-214292665.1551328372#importing-data-to-worksheets">documention</a> to know more in detail.
 
-Essential XlsIO provides the following ways to export data to Excel:
+Essential&reg; XlsIO provides the following ways to export data to Excel:
 
 1. DataTable to Excel
 2. Collection of objects to Excel
@@ -92,7 +92,7 @@ value = instance.ImportDataTable(dataTable, namedRange, showColumnName, rowOffse
 
 Exporting data from a collection of objects to an Excel worksheet is a common scenario. However, this option will be helpful if you need to export data from a model to an Excel worksheet.
 
-The Syncfusion Excel (XlsIO) library provides support to export data from a collection of objects to an Excel worksheet.
+The Syncfusion&reg; Excel (XlsIO) library provides support to export data from a collection of objects to an Excel worksheet.
 
 Exporting data from a collection of objects to an Excel worksheet can be achieved through the ImportData method. The following code example shows how to export data from a collection to an Excel worksheet.
 
@@ -185,7 +185,7 @@ using (ExcelEngine excelEngine = new ExcelEngine())
 
 Excel supports creating Excel tables from different databases. If you have a scenario in which you need to create one or more Excel tables from a database using Excel, you need to establish every single connection to create those tables. This can be time consuming, so if you find an alternate way to generate Excel tables from database very quickly and easily, wouldn’t that be your first choice?
 
-The Syncfusion Excel (XlsIO) library helps you to export data to Excel worksheets from databases like MS SQL, MS Access, Oracle, and more. By establishing a connection between the databases and Excel application, you can export data from a <strong>database to an Excel table</strong>.
+The Syncfusion&reg; Excel (XlsIO) library helps you to export data to Excel worksheets from databases like MS SQL, MS Access, Oracle, and more. By establishing a connection between the databases and Excel application, you can export data from a <strong>database to an Excel table</strong>.
 
 You can use the <em><a href="https://help.syncfusion.com/cr/file-formats/Syncfusion.XlsIO.Base~Syncfusion.XlsIO.IListObject~Refresh.html">Refresh()</a></em><em> </em>option to update the modified data in the Excel table that is mapped to the database.
 
@@ -229,9 +229,9 @@ using (ExcelEngine excelEngine = new ExcelEngine())
 
 <h2 id="DataGrid-GridView-DataGridView-to-Excel">4. Export data from DataGrid, GridView, DatGridView to Excel</h2>
 
-Exporting data from <a href="https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/datagrid-control-overview-windows-forms">Microsoft grid</a> controls to Excel worksheets helps to visualize data in different ways. You may work for hours to iterate data and its styles from grid cells to export them into Excel worksheets. It should be good news for those who export data from Microsoft grid controls to Excel worksheets, because exporting with Syncfusion Excel library is much faster.
+Exporting data from <a href="https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/datagrid-control-overview-windows-forms">Microsoft grid</a> controls to Excel worksheets helps to visualize data in different ways. You may work for hours to iterate data and its styles from grid cells to export them into Excel worksheets. It should be good news for those who export data from Microsoft grid controls to Excel worksheets, because exporting with Syncfusion&reg; Excel library is much faster.
 
-Syncfusion Excel (XlsIO) library supports to <a href="https://help.syncfusion.com/file-formats/xlsio/working-with-data#importing-data-from-microsoft-grid-controls-to-worksheet">exporting data from Microsoft Grid controls</a>, such as DataGrid, GridView, and DataGridView to Excel worksheets in a single API call. Also, you can export data with header and styles.
+Syncfusion&reg; Excel (XlsIO) library supports to <a href="https://help.syncfusion.com/file-formats/xlsio/working-with-data#importing-data-from-microsoft-grid-controls-to-worksheet">exporting data from Microsoft Grid controls</a>, such as DataGrid, GridView, and DataGridView to Excel worksheets in a single API call. Also, you can export data with header and styles.
 
 The following code example shows how to export data from DataGridView to an Excel worksheet.
 
@@ -284,7 +284,7 @@ using (ExcelEngine excelEngine = new ExcelEngine())
 
 Sometimes, there may be a need where an array of data may need to be inserted or modified into existing data in Excel worksheet. In this case, the number of rows and columns are known in advance. Arrays are useful when you have a fixed size.
 
-The Syncfusion Excel (XlsIO) library provides support to export an array of data into an Excel worksheet, both horizontally and vertically. In addition, two-dimensional arrays can also be exported.
+The Syncfusion&reg; Excel (XlsIO) library provides support to export an array of data into an Excel worksheet, both horizontally and vertically. In addition, two-dimensional arrays can also be exported.
 
 Let us consider a scenario, “Expenses per Person.” The expenses of a person for the whole year is tabulated in the Excel worksheet. In this scenario, you need to add expenses for a new person, <em>Paul Pogba,</em> in a new row and modify the expenses of all tracked people for the month <em>Dec</em>.
 
@@ -336,7 +336,7 @@ using (ExcelEngine excelEngine = new ExcelEngine())
 
 <a href="https://en.wikipedia.org/wiki/Comma-separated_values">Comma-separated value</a> (CSV) files are helpful in generating tabular data or lightweight reports with few columns and a high number of rows. Excel opens such files to make the data easier to read.
 
-The Syncfusion Excel (XlsIO) library supports opening and saving CSV files in seconds. The below code example shows how to open a CSV file, also save it as XLSX file. Above all, the data is shown in a table with number formats applied.
+The Syncfusion&reg; Excel (XlsIO) library supports opening and saving CSV files in seconds. The below code example shows how to open a CSV file, also save it as XLSX file. Above all, the data is shown in a table with number formats applied.
 
 ```csharp
 using (ExcelEngine excelEngine = new ExcelEngine())
@@ -395,4 +395,4 @@ using (ExcelEngine excelEngine = new ExcelEngine())
 
 <em>Output of CSV converted to Excel</em>
 
-Apart from this, <a href="https://www.syncfusion.com/excel-framework/net">Syncfusion Excel (XlsIO) library</a> provides various other features such as, charts, pivot tables, tables, cell formatting, conditional formatting, data validation, encryption and decryption, auto-shapes, Excel to PDF, Excel to Image, Excel to HTML and more. You can refer to our <a href="https://ej2.syncfusion.com/aspnetcore/XlsIO/Create#/material">online demo samples</a> to know more about all the features. 
+Apart from this, <a href="https://www.syncfusion.com/excel-framework/net">Syncfusion&reg; Excel (XlsIO) library</a> provides various other features such as, charts, pivot tables, tables, cell formatting, conditional formatting, data validation, encryption and decryption, auto-shapes, Excel to PDF, Excel to Image, Excel to HTML and more. You can refer to our <a href="https://ej2.syncfusion.com/aspnetcore/XlsIO/Create#/material">online demo samples</a> to know more about all the features. 
