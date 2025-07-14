@@ -1,14 +1,9 @@
-﻿using Syncfusion. XlsIO;
-using System;
-using System. Collections. Generic;
-using System. ComponentModel;
-using System. Data;
-using System. Drawing;
-using System. IO;
-using System. Linq;
-using System. Text;
-using System. Threading. Tasks;
-using System. Windows. Forms;
+﻿using Syncfusion.XlsIO;
+using System.Data;
+using System.Diagnostics;
+using System.Drawing;
+using System.IO;
+using System.Windows.Forms;
 
 namespace ImportFromGrid
 {
@@ -52,15 +47,17 @@ namespace ImportFromGrid
 
                 //Create a workbook with single worksheet
                 IWorkbook workbook = application.Workbooks.Create(1);
+                workbook.Version = ExcelVersion.Xlsx;
 
                 IWorksheet worksheet = workbook.Worksheets[0];
 
                 //Import from DataGridView to worksheet
-                worksheet.ImportDataGridView(dataGridView1, 1, 1, isImportHeader: true, isImportStyle: true);
+                worksheet.ImportDataGridView(dataGridView1, 1, 1, true, true);
 
                 worksheet.UsedRange.AutofitColumns();
                 workbook.SaveAs("Output.xlsx");
-                System.Diagnostics.Process.Start("Output.xlsx");
+                
+                Process.Start("Output.xlsx");
             }
         }
     }

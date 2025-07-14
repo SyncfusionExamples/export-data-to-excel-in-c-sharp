@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Export-DataTable-to-Excel", "Export-DataTable-to-Excel\Export-DataTable-to-Excel.csproj", "{269C2F50-C9BE-4D4E-9C48-DDB710C7E4B3}"
 EndProject
