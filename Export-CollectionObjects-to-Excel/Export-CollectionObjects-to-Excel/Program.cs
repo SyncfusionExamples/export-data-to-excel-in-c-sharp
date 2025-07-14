@@ -19,7 +19,7 @@ namespace ImportFromCollectionObjects
             using (ExcelEngine excelEngine = new ExcelEngine())
             {
                 IApplication application = excelEngine.Excel;
-                application.DefaultVersion = ExcelVersion.Excel2016;
+                application.DefaultVersion = ExcelVersion.Xlsx;
 
                 //Read the data from XML file
                 StreamReader reader = new StreamReader(Path.GetFullPath(@"../../Data/Customers.xml"));
@@ -81,10 +81,6 @@ namespace ImportFromCollectionObjects
                 sheet["D3"].Text = "Change(%)";
                 sheet["A3:D4"].CellStyle = tableHeader;
                 sheet.UsedRange.AutofitColumns();
-                sheet.Columns[0].ColumnWidth = 24;
-                sheet.Columns[1].ColumnWidth = 21;
-                sheet.Columns[2].ColumnWidth = 21;
-                sheet.Columns[3].ColumnWidth = 16;
                 #endregion
 
                 sheet.UsedRange.AutofitColumns();

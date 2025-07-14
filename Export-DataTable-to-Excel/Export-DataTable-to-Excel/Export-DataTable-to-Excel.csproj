@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>ImportFromDataTable</RootNamespace>
     <AssemblyName>ImportFromDataTable</AssemblyName>
-    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,14 +34,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Syncfusion.Compression.Base, Version=17.1460.0.38, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <HintPath>..\packages\Syncfusion.Compression.Base.17.1.0.38\lib\net46\Syncfusion.Compression.Base.dll</HintPath>
+    <Reference Include="Syncfusion.Compression.Base, Version=30.1462.39.0, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Compression.Base.30.1.39\lib\net462\Syncfusion.Compression.Base.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.Licensing, Version=17.1460.0.38, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
-      <HintPath>..\packages\Syncfusion.Licensing.17.1.0.38\lib\net46\Syncfusion.Licensing.dll</HintPath>
+    <Reference Include="Syncfusion.Licensing, Version=30.1462.39.0, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Licensing.30.1.39\lib\net462\Syncfusion.Licensing.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.XlsIO.Base, Version=17.1460.0.38, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <HintPath>..\packages\Syncfusion.XlsIO.WinForms.17.1.0.38\lib\net46\Syncfusion.XlsIO.Base.dll</HintPath>
+    <Reference Include="Syncfusion.XlsIO.Base, Version=30.1462.39.0, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.XlsIO.WinForms.30.1.39\lib\net462\Syncfusion.XlsIO.Base.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
