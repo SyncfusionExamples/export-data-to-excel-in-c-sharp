@@ -1,11 +1,6 @@
-﻿using System;
-using System. Collections. Generic;
-using System. Linq;
-using System. Text;
-using System. Threading. Tasks;
-using Syncfusion. XlsIO;
-using System. Diagnostics;
-using System. IO;
+﻿using Syncfusion.XlsIO;
+using System.Diagnostics;
+using System.IO;
 using System.Data;
 namespace ImportFromDataTable
 {
@@ -16,7 +11,7 @@ namespace ImportFromDataTable
             using (ExcelEngine excelEngine = new ExcelEngine())
             {
                 IApplication application = excelEngine.Excel;
-                application.DefaultVersion = ExcelVersion.Excel2016;
+                application.DefaultVersion = ExcelVersion.Xlsx;
 
                 //Create a new workbook
                 IWorkbook workbook = application.Workbooks.Create(1);
